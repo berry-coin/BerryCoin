@@ -103,7 +103,7 @@ void setupAddressWidget(QValidatedLineEdit *widget, QWidget *parent)
 #if QT_VERSION >= 0x040700
     // We don't want translators to use own addresses in translations
     // and this is the only place, where this address is supplied.
-    widget->setPlaceholderText(QObject::tr("Enter a Dogecoin address (e.g. %1)").arg("DEaT9KZM6b6oDZMr8pj7pWTLZSdtYZFAx8"));
+    widget->setPlaceholderText(QObject::tr("Enter a BerryCoin address (e.g. %1)").arg("DEaT9KZM6b6oDZMr8pj7pWTLZSdtYZFAx8"));
 #endif
     widget->setValidator(new BitcoinAddressEntryValidator(parent));
     widget->setCheckValidator(new BitcoinAddressCheckValidator(parent));
@@ -121,7 +121,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // return if URI is not valid or is no bitcoin: URI
-    if(!uri.isValid() || uri.scheme() != QString("dogecoin"))
+    if(!uri.isValid() || uri.scheme() != QString("berrycoin"))
         return false;
 
     SendCoinsRecipient rv;
@@ -188,9 +188,9 @@ bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("dogecoin://", Qt::CaseInsensitive))
+    if(uri.startsWith("berrycoin://", Qt::CaseInsensitive))
     {
-        uri.replace(0, 11, "dogecoin:");
+        uri.replace(0, 11, "berrycoin:");
     }
     QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
@@ -198,7 +198,7 @@ bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 
 QString formatBitcoinURI(const SendCoinsRecipient &info)
 {
-    QString ret = QString("dogecoin:%1").arg(info.address);
+    QString ret = QString("berrycoin:%1").arg(info.address);
     int paramCount = 0;
 
     if (info.amount)
@@ -568,11 +568,11 @@ TableViewLastColumnResizingFixer::TableViewLastColumnResizingFixer(QTableView* t
 boost::filesystem::path static StartupShortcutPath()
 {
     if (GetBoolArg("-testnet", false))
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Dogecoin (testnet).lnk";
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "BerryCoin (testnet).lnk";
     else if (GetBoolArg("-regtest", false))
-        return GetSpecialFolderPath(CSIDL_STARTUP) / "Dogecoin (regtest).lnk";
+        return GetSpecialFolderPath(CSIDL_STARTUP) / "BerryCoin (regtest).lnk";
 
-    return GetSpecialFolderPath(CSIDL_STARTUP) / "Dogecoin.lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / "BerryCoin.lnk";
 }
 
 bool GetStartOnSystemStartup()
@@ -667,7 +667,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "dogecoin.desktop";
+    return GetAutostartDir() / "berrycoin.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -709,11 +709,11 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
         if (GetBoolArg("-testnet", false))
-            optionFile << "Name=Dogecoin (testnet)\n";
+            optionFile << "Name=BerryCoin (testnet)\n";
         else if (GetBoolArg("-regtest", false))
-            optionFile << "Name=Dogecoin (regtest)\n";
+            optionFile << "Name=BerryCoin (regtest)\n";
         else
-            optionFile << "Name=Dogecoin\n";
+            optionFile << "Name=BerryCoin\n";
         optionFile << "Exec=" << pszExePath << strprintf(" -min -testnet=%d -regtest=%d\n", GetBoolArg("-testnet", false), GetBoolArg("-regtest", false));
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
