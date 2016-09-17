@@ -62,11 +62,11 @@
         <translation>받은 주소들</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>지불액을 보내기 위한 도지코인 주소들이 있습니다. 코인을 보내기 전에 항상 보내는 주소와 액수를 확인하세요.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>지불액을 받기 위한 도지코인 주소들이 있습니다. 매 거래기록마다 새로운 주소 사용을 권장합니다.</translation>
     </message>
     <message>
@@ -152,7 +152,7 @@
         <translation>지갑의 암호화를 확정</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
         <translation>경고: 만약 지갑을 암호화 한 뒤 암호문을 잃어버리면, 모든 도지코인을 잃어버리게 됩니다!</translation>
     </message>
     <message>
@@ -275,7 +275,7 @@
         <translation>URI&amp;열기...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
+        <source>BerryCoin Core client</source>
         <translation>비트코인 코어 클라이언트</translation>
     </message>
     <message>
@@ -287,7 +287,7 @@
         <translation>디스크에서 블록 다시 색인중...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a BerryCoin address</source>
         <translation>도지코인 주소로 코인 보내기</translation>
     </message>
     <message>
@@ -311,7 +311,7 @@
         <translation>메시지 확인&amp;...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>BerryCoin</source>
         <translation>도지코인</translation>
     </message>
     <message>
@@ -327,7 +327,7 @@
         <translation>받기(&amp;R)</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
+        <source>Show information about BerryCoin Core</source>
         <translation>비트코인 코어에 관한 정보입니다.</translation>
     </message>
     <message>
@@ -343,11 +343,11 @@
         <translation>소유 지갑 개인키 암호화</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
         <translation>도지코인 주소에 메시지를 서명하여 그것을 가지고 있음을 증명하세요.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
         <translation>메시지를 검증하여 지정된 도지코인 주소가 서명되었는지 확인하세요.</translation>
     </message>
     <message>
@@ -367,15 +367,15 @@
         <translation>툴바 색인표</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
         <translation>지불 요청하기 (QR코드와 도지코인 URI 생성)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
+        <source>&amp;About BerryCoin Core</source>
         <translation>도지코인 코어 정보(&amp;A)</translation>
     </message>
     <message>
@@ -387,7 +387,7 @@
         <translation>한번 이상 사용된 받는 주소와 주소 제목의 목록을 보여줍니다.</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a berrycoin: URI or payment request</source>
         <translation>도지코인 URI 또는 지불 요청을 엽니다</translation>
     </message>
     <message>
@@ -395,8 +395,8 @@
         <translation>명령어-라인 옵션</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>사용할 수 있는 비트코인 명령어 옵션 목록을 가져오기 위해 Dogecoin-Qt 도움말 메시지를 표시합니다.</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>사용할 수 있는 비트코인 명령어 옵션 목록을 가져오기 위해 BerryCoin-Qt 도움말 메시지를 표시합니다.</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -692,7 +692,7 @@
         <translation>입력된 주소는"%1" 이미 주소록에 있습니다.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
         <translation>입력한 주소 "%1"은(는) 올바른 도지코인 주소가 아닙니다.</translation>
     </message>
     <message>
@@ -730,7 +730,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
@@ -742,7 +742,7 @@
         <translation>(%1-비트)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About BerryCoin Core</source>
         <translation>도지코인 코어 정보</translation>
     </message>
     <message>
@@ -765,15 +765,15 @@
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
+        <source>Welcome to BerryCoin Core.</source>
         <translation>도지코인 코어에 오신 것을 환영합니다.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
         <translation>프로그램이 처음으로 실행되었기 때문에, 도지코인 코어의 데이터를 어느 위치에 저장할지 선택할 수 있습니다.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>도지코인 코어는 블록 체인의 복사본을 다운받아 저장할 것입니다. 적어도 %1GB의 데이터가 이 디렉토리에 저장되고, 시간이 흐르면 증가합니다. 사용자의 지갑 또한 이곳에 저장됩니다.</translation>
     </message>
     <message>
@@ -785,7 +785,7 @@
         <translation>커스텀 데이터 폴더 사용:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
@@ -887,7 +887,7 @@
         <translation>&amp;확인되지 않은 돈을 쓰다</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>라우터의 도지코인 클라이언트 포트를 자동으로 엽니다. 라우터에서 UPnP를 지원하고 활성화 했을 경우에만 동작합니다.</translation>
     </message>
     <message>
@@ -982,7 +982,7 @@
         <translation>유형</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>표시된 정보는 오래된 것 같습니다. 지갑은 연결 상태가 된 후에 자동적으로 도지코인 네트워크와 동기화하지만, 이 과정은 아직 완료되지 않았습니다.</translation>
     </message>
     <message>
@@ -1045,7 +1045,7 @@
         <translation>지불 요청 애러</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
         <translation>도지코인을 시작할 수 없습니다: click-to-pay handler</translation>
     </message>
     <message>
@@ -1529,7 +1529,7 @@
         <translation>거래가 거부되었습니다. 몇몇 코인들이 지갑에서 이미 사용된 경우, 예를 들어 코인을 이미 사용한  wallet.dat를 복사해서 사용한 경우 지금 지갑에 기록이 안되있어 이런 일이 생길 수 있습니다.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
+        <source>Warning: Invalid BerryCoin address</source>
         <translation>경고: 잘못된 도지코인 주소</translation>
     </message>
     <message>
@@ -1600,7 +1600,7 @@
         <translation>사용된 주소 목록에 새 주소를 추가하기 위해 제목을 입력합니다. </translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
+        <source>A message that was attached to the berrycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BerryCoin network.</source>
         <translation>도지코인 URI에 첨부된 메시지는 사용자 참고를 위해 거래기록과 함께 보관될 것입니다. 참고: 이 메시지는 도지코인 네트워크를 통해 보내지 않을 것입니다.</translation>
     </message>
     <message>
@@ -1615,7 +1615,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
+        <source>BerryCoin Core is shutting down...</source>
         <translation>도지코인 코어를 종료하는 중입니다...</translation>
     </message>
     <message>
@@ -1662,7 +1662,7 @@
         <translation>현재 서명을 시스템 클립보드에 복사</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>이 도지코인 주소를 가지고 있다는 것을 증명하기 위해 메시지 서명하기</translation>
     </message>
     <message>
@@ -1682,7 +1682,7 @@
         <translation>메시지 검증(&amp;V)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
         <translation>지정된 도지코인 주소로 서명되었는지 확인하기 위해 메시지 검증하기</translation>
     </message>
     <message>
@@ -1749,11 +1749,11 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>도지코인 코어</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The BerryCoin Core developers</source>
         <translation>비트코인코어 개발자들</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@
         <translation>외부 blk000??.dat 파일에서 블록을 가져옵니다.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
         <translation>데이터 디렉토리 %s의 락을 얻을 수 없습니다. 도지코인 코어가 이미 실행 중인 것 같습니다.</translation>
     </message>
     <message>

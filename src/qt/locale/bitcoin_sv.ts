@@ -66,12 +66,12 @@
         <translation>Mottagaradresser</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Detta är dina Dogecoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar Dogecoins.</translation>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Detta är dina BerryCoin adresser för att skicka betalningar. Kolla alltid summan och den mottagande adressen innan du skickar BerryCoins.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Detta är dina Dogecoin adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Detta är dina BerryCoin adresser för att ta emot betalningar. Det rekommenderas att använda en ny mottagningsadress för varje transaktion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -161,7 +161,7 @@ Var vänlig och försök igen.</translation>
         <translation>Bekräfta kryptering av plånbok</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
         <translation>VARNING: Om du krypterar din plånbok och glömmer ditt lösenord, kommer du att &lt;b&gt;FÖRLORA ALLA DINA TILLGÅNGAR&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -169,8 +169,8 @@ Var vänlig och försök igen.</translation>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Dogecoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin Core kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
+        <source>BerryCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your berrycoins from being stolen by malware infecting your computer.</source>
+        <translation>BerryCoin Core kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -296,8 +296,8 @@ Var vänlig och försök igen.</translation>
         <translation>Öppna &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core klient</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -308,8 +308,8 @@ Var vänlig och försök igen.</translation>
         <translation>Återindexerar block på disken...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Skicka dogecoins till en Dogecoin-adress</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Skicka berrycoins till en BerryCoin-adress</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -332,8 +332,8 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Verifiera meddelande...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -348,8 +348,8 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Ta emot</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Visa information om Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Visa information om BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -364,12 +364,12 @@ Var vänlig och försök igen.</translation>
         <translation>Kryptera de privata nycklar som tillhör din plånbok</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Signera meddelanden med din Dogecoin-adress för att bevisa att du äger dem</translation>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
+        <translation>Signera meddelanden med din BerryCoin-adress för att bevisa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade Dogecoin-adresser</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Verifiera meddelanden för att vara säker på att de var signerade med specificerade BerryCoin-adresser</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -388,20 +388,20 @@ Var vänlig och försök igen.</translation>
         <translation>Verktygsfält för Tabbar</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kärna</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Kärna</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Begär betalning (genererar QR-koder och dogecoin-URI)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Begär betalning (genererar QR-koder och berrycoin-URI)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;Om Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;Om BerryCoin Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Ändra konfigurationsalternativ för Dogecoin Core</translation>
+        <source>Modify configuration options for BerryCoin Core</source>
+        <translation>Ändra konfigurationsalternativ för BerryCoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -412,20 +412,20 @@ Var vänlig och försök igen.</translation>
         <translation>Visa listan av använda mottagningsadresser och etiketter</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Öppna en dogecoin: URI eller betalningsbegäran</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Öppna en berrycoin: URI eller betalningsbegäran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Kommandoradsalternativ</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Visa Dogecoin Core hjälpmeddelande för att få en lista med möjliga Dogecoin kommandoradsalternativ.</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Visa BerryCoin Core hjälpmeddelande för att få en lista med möjliga BerryCoin kommandoradsalternativ.</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktiva anslutningar till Dogecoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till Dogecoin-nätverket.</numerusform></translation>
+        <source>%n active connection(s) to BerryCoin network</source>
+        <translation><numerusform>%n aktiva anslutningar till BerryCoin-nätverket.</numerusform><numerusform>%n aktiva anslutningar till BerryCoin-nätverket.</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -803,8 +803,8 @@ Var vänlig och försök igen.</translation>
         <translation>Den angivna adressen "%1" finns redan i adressboken.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Den angivna adressen "%1" är inte en giltig Dogecoin-adress.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Den angivna adressen "%1" är inte en giltig BerryCoin-adress.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -841,8 +841,8 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kärna</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Kärna</translation>
     </message>
     <message>
         <source>version</source>
@@ -853,8 +853,8 @@ Var vänlig och försök igen.</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Om Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Om BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -876,16 +876,16 @@ Var vänlig och försök igen.</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Välkommen till Dogecoin Core.</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Välkommen till BerryCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet startas får du välja var Dogecoin Core skall lagra sitt data.</translation>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet startas får du välja var BerryCoin Core skall lagra sitt data.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dogecoin Core kommer att ladda ner och spara en kopia av Dogecoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BerryCoin Core kommer att ladda ner och spara en kopia av BerryCoin blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -896,8 +896,8 @@ Var vänlig och försök igen.</translation>
         <translation>Använd en anpassad datakatalog:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kärna</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Kärna</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -978,8 +978,8 @@ Var vänlig och försök igen.</translation>
         <translation>Minimera istället för att stänga programmet när fönstret stängs. När detta alternativ är aktiverat stängs programmet endast genom att välja Stäng i menyn.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Dogecoin Core.</source>
-        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av Dogecoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BerryCoin Core.</source>
+        <translation>Gränssnittets språk kan väljas här. Denna inställning träder i kraft efter omstart av BerryCoin Core.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1006,12 +1006,12 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>Automatically start Dogecoin Core after logging in to the system.</source>
-        <translation>Kör Dogecoin Core automatiskt vid systeminloggning.</translation>
+        <source>Automatically start BerryCoin Core after logging in to the system.</source>
+        <translation>Kör BerryCoin Core automatiskt vid systeminloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Dogecoin Core on system login</source>
-        <translation>&amp;Kör Dogecoin Core vid systeminloggning</translation>
+        <source>&amp;Start BerryCoin Core on system login</source>
+        <translation>&amp;Kör BerryCoin Core vid systeminloggning</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1038,16 +1038,16 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Spendera okonfirmerad växel</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Dogecoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt BerryCoin-klientens port på routern. Detta fungerar endast om din router har UPnP aktiverat.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Tilldela port med hjälp av &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS5 proxy.</source>
-        <translation>Anslut till Dogecoin-nätverket genom en SOCKS5-proxy.</translation>
+        <source>Connect to the BerryCoin network through a SOCKS5 proxy.</source>
+        <translation>Anslut till BerryCoin-nätverket genom en SOCKS5-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1145,8 +1145,8 @@ Var vänlig och försök igen.</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med Dogecoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara inaktuell. Plånboken synkroniseras automatiskt med BerryCoin-nätverket efter att anslutningen är upprättad, men denna process har inte slutförts ännu.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1244,16 +1244,16 @@ Var vänlig och försök igen.</translation>
         <translation>Fel vid betalningsbegäran</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Kan inte starta dogecoin: klicka-och-betala handhavare</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>Kan inte starta berrycoin: klicka-och-betala handhavare</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Betalningsbegärans hämta URL är felaktig: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig Dogecoin-adress eller felaktiga URI parametrar.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BerryCoin address or malformed URI parameters.</source>
+        <translation>URI går inte att tolkas! Detta kan orsakas av en ogiltig BerryCoin-adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1330,8 +1330,8 @@ Var vänlig och försök igen.</translation>
         <translation>Mängd</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Ange en Dogecoin-adress (t.ex. %1)</translation>
+        <source>Enter a BerryCoin address (e.g. %1)</source>
+        <translation>Ange en BerryCoin-adress (t.ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1440,8 +1440,8 @@ Var vänlig och försök igen.</translation>
         <translation>Aktuellt antal block</translation>
     </message>
     <message>
-        <source>Open the Dogecoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna felsökningsloggfilen för Dogecoin Core från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
+        <source>Open the BerryCoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna felsökningsloggfilen för BerryCoin Core från den nuvarande datakatalogen. Detta kan ta några sekunder om loggfilen är stor.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1560,8 +1560,8 @@ Var vänlig och försök igen.</translation>
         <translation>Rensa konsollen</translation>
     </message>
     <message>
-        <source>Welcome to the Dogecoin Core RPC console.</source>
-        <translation>Välkommen till RPC-konsolen för Dogecoin Core.</translation>
+        <source>Welcome to the BerryCoin Core RPC console.</source>
+        <translation>Välkommen till RPC-konsolen för BerryCoin Core.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1631,8 +1631,8 @@ Var vänlig och försök igen.</translation>
         <translation>Åt&amp;eranvänd en existerande mottagningsadress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över Dogecoinnätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BerryCoin network.</source>
+        <translation>Ett frivilligt meddelande att bifoga betalningsbegäran, vilket visas när begäran öppnas. NB: Meddelandet kommer inte att sändas med betalningen över BerryCoinnätverket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1864,8 +1864,8 @@ Var vänlig och försök igen.</translation>
         <translation>totalt minst</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for dogecoin transactions than the network can process.</source>
-        <translation>Att betala endast den minsta avgiften är bara bra så länge det är mindre transaktionsvolym än utrymme i blocken. Men tänk på att det kan hamna i en aldrig bekräftar transaktion när det finns mer efterfrågan på dogecoin transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for berrycoin transactions than the network can process.</source>
+        <translation>Att betala endast den minsta avgiften är bara bra så länge det är mindre transaktionsvolym än utrymme i blocken. Men tänk på att det kan hamna i en aldrig bekräftar transaktion när det finns mer efterfrågan på berrycoin transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>(read the tooltip)</source>
@@ -2024,8 +2024,8 @@ Var vänlig och försök igen.</translation>
         <translation>Duplicerad adress upptäckt: adresser skall endast användas en gång var.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Varning: Felaktig Dogecoinadress</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Varning: Felaktig BerryCoinadress</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2075,8 +2075,8 @@ Var vänlig och försök igen.</translation>
         <translation>Detta är en normal betalning.</translation>
     </message>
     <message>
-        <source>The Dogecoin address to send the payment to</source>
-        <translation>Dogecoinadress att sända betalning till</translation>
+        <source>The BerryCoin address to send the payment to</source>
+        <translation>BerryCoinadress att sända betalning till</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2095,8 +2095,8 @@ Var vänlig och försök igen.</translation>
         <translation>Radera denna post</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less dogecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Avgiften dras från beloppet som skickas. Mottagaren kommer att få mindre dogecoins än du angivit i belopp-fältet. Om flera mottagare valts kommer avgiften delas jämt.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less berrycoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Avgiften dras från beloppet som skickas. Mottagaren kommer att få mindre berrycoins än du angivit i belopp-fältet. Om flera mottagare valts kommer avgiften delas jämt.</translation>
     </message>
     <message>
         <source>Message:</source>
@@ -2115,8 +2115,8 @@ Var vänlig och försök igen.</translation>
         <translation>Ange en etikett för denna adress att adderas till listan över använda adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Ett meddelande som bifogades dogecoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över Dogecoinnätverket.</translation>
+        <source>A message that was attached to the berrycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BerryCoin network.</source>
+        <translation>Ett meddelande som bifogades berrycoin-URI, vilket lagras med transaktionen som referens. NB: Meddelandet kommer inte att sändas över BerryCoinnätverket.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2130,8 +2130,8 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin Core stängs av...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>BerryCoin Core stängs av...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2149,12 +2149,12 @@ Var vänlig och försök igen.</translation>
         <translation>&amp;Signera Meddelande</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive dogecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underteckna meddelanden/avtal med dina adresser för att bevisa att du kan ta emot dogecoins som skickats till dem. Var försiktig så du inte undertecknar något oklart eller konstigt, eftersom phishing-angrepp kan försöka få dig att underteckna din identitet till dem. Underteckna endast väldetaljerade meddelanden som du godkänner.</translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive berrycoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Du kan underteckna meddelanden/avtal med dina adresser för att bevisa att du kan ta emot berrycoins som skickats till dem. Var försiktig så du inte undertecknar något oklart eller konstigt, eftersom phishing-angrepp kan försöka få dig att underteckna din identitet till dem. Underteckna endast väldetaljerade meddelanden som du godkänner.</translation>
     </message>
     <message>
-        <source>The Dogecoin address to sign the message with</source>
-        <translation>Dogecoinadress att signera meddelandet med</translation>
+        <source>The BerryCoin address to sign the message with</source>
+        <translation>BerryCoinadress att signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2185,7 +2185,7 @@ Var vänlig och försök igen.</translation>
         <translation>Kopiera signaturen till systemets Urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>Signera meddelandet för att bevisa att du äger denna adress</translation>
     </message>
     <message>
@@ -2209,12 +2209,12 @@ Var vänlig och försök igen.</translation>
         <translation>Ange mottagarens adress, meddelande (kopiera radbrytningar, mellanrum, flikar, etc. exakt) och signatur nedan för att verifiera meddelandet. Undvik att läsa in mera information i signaturen än vad som stod i själva undertecknade meddelandet, för att undvika ett man-in-the-middle-angrepp. Notera att detta endast bevisar att undertecknad tar emot med adressen, det bevisar inte vem som skickat transaktionen!</translation>
     </message>
     <message>
-        <source>The Dogecoin address the message was signed with</source>
-        <translation>Dogecoinadressen som meddelandet signerades med</translation>
+        <source>The BerryCoin address the message was signed with</source>
+        <translation>BerryCoinadressen som meddelandet signerades med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna Dogecoin-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att den var signerad med den angivna BerryCoin-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2280,12 +2280,12 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Kärna</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Kärna</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Dogecoin Core-utvecklarna</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>BerryCoin Core-utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2834,8 +2834,8 @@ Var vänlig och försök igen.</translation>
         <translation>Detta är ett förhands testbygge - använd på egen risk - använd inte för mining eller handels applikationer</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>Det går inte att binda till %s på den här datorn. Dogecoin Core är förmodligen redan igång.</translation>
+        <source>Unable to bind to %s on this computer. BerryCoin Core is probably already running.</source>
+        <translation>Det går inte att binda till %s på den här datorn. BerryCoin Core är förmodligen redan igång.</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
@@ -3030,8 +3030,8 @@ Var vänlig och försök igen.</translation>
         <translation>Bind till angiven adress för att lyssna på JSON-RPC anslutningar. Använd [värd]:port notation for IPv6. Denna option kan specificeras flera gånger (förvalt: bind till alla gränssnitt)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>Kan inte låsa data-mappen %s. Dogecoin Core körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
+        <translation>Kan inte låsa data-mappen %s. BerryCoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3054,8 +3054,8 @@ Var vänlig och försök igen.</translation>
         <translation>Exekvera kommando när ett relevant meddelande är mottagen eller när vi ser en väldigt lång förgrening (%s i cmd är utbytt med ett meddelande)</translation>
     </message>
     <message>
-        <source>Fees (in DOGE/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i DOGE/Kb) mindre än detta betraktas som nollavgift för vidarebefodran (förvalt: %s)</translation>
+        <source>Fees (in BERRY/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i BERRY/Kb) mindre än detta betraktas som nollavgift för vidarebefodran (förvalt: %s)</translation>
     </message>
     <message>
         <source>If paytxfee is not set, include enough fee so transactions begin confirmation on average within n blocks (default: %u)</source>
@@ -3094,27 +3094,27 @@ Var vänlig och försök igen.</translation>
         <translation>Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara utvecklad av Eric Young samt UPnP-mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use dogecoind, or the -server option to dogecoin-qt, you must set an rpcpassword in the configuration file:
+        <source>To use berrycoind, or the -server option to berrycoin-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=dogecoinrpc
+rpcuser=berrycoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "BerryCoin Alert" admin@foo.com
 </source>
-        <translation>För att använda bitconid,eller -server optionen till dogecoin-qt så mäste du sätta ett rpclösensord i konfigurationsfilen:
+        <translation>För att använda bitconid,eller -server optionen till berrycoin-qt så mäste du sätta ett rpclösensord i konfigurationsfilen:
 %s
 Det är rekommenderat att använda följande slumpade lösenord:
-rpcuser=dogecoinrpc
+rpcuser=berrycoinrpc
 rpcpassword=%s
 (du behöver inte komma ihåg lösenordet)
 Användarnamnet och lösenordet FÅR INTE vara detsamma.
 Om filen inte existerar, skapa den med enbart ägarläsbara filrättigheter.
 Det är också rekommenderat att sätta alertnotify så du meddelas om problem;
-till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s "BerryCoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3122,8 +3122,8 @@ till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
         <translation>Varning: -maxtxfee är satt väldigt hög! Så höga avgifter kan betalas för en enstaka transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Dogecoin Core will not work properly.</source>
-        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer Dogecoin Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BerryCoin Core will not work properly.</source>
+        <translation>Varning: Vänligen kolla så att din dators datum och tid är korrekt! Om din klocka går fel kommer BerryCoin Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3166,16 +3166,16 @@ till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
         <translation>Copyright (C) 2009-%i Bitcoin Core Utvecklarna</translation>
     </message>
     <message>
-        <source>Copyright (C) 2013-%i The Dogecoin Core Developers</source>
-        <translation>Copyright (C) 2013-%i Dogecoin Core Utvecklarna</translation>
+        <source>Copyright (C) 2013-%i The BerryCoin Core Developers</source>
+        <translation>Copyright (C) 2013-%i BerryCoin Core Utvecklarna</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Kunde inte tolka -rpcbind värdet %s som en nätverksadress</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av Dogecoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BerryCoin Core</source>
+        <translation>Fel vid inläsningen av wallet.dat: Kontofilen kräver en senare version av BerryCoin Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3186,16 +3186,16 @@ till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
         <translation>Fel: Argumentet -tor stöds inte, använd -onion.</translation>
     </message>
     <message>
-        <source>Fee (in DOGE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Avgift (i DOGE/Kb) att lägga till på transaktioner du skickar (förvalt: %s)</translation>
+        <source>Fee (in BERRY/kB) to add to transactions you send (default: %s)</source>
+        <translation>Avgift (i BERRY/Kb) att lägga till på transaktioner du skickar (förvalt: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Dogecoin Core is shutting down.</source>
-        <translation>Initieringschecken fallerade. Dogecoin Core stängs av...</translation>
+        <source>Initialization sanity check failed. BerryCoin Core is shutting down.</source>
+        <translation>Initieringschecken fallerade. BerryCoin Core stängs av...</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3322,8 +3322,8 @@ till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
         <translation>Användarnamn för JSON-RPC-anslutningar</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
-        <translation>Kontot behöver sparas om: Starta om Dogecoin Core för att fullfölja</translation>
+        <source>Wallet needed to be rewritten: restart BerryCoin Core to complete</source>
+        <translation>Kontot behöver sparas om: Starta om BerryCoin Core för att fullfölja</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -3535,7 +3535,7 @@ till exempel: alertnotify=echo %%s | mail -s "Dogecoin Alert" admin@foo.com
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med dogecoins</translation>
+        <translation>Otillräckligt med berrycoins</translation>
     </message>
     <message>
         <source>Loading block index...</source>

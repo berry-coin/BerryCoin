@@ -285,7 +285,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../dogecoingui.cpp" line="+326"/>
+        <location filename="../berrycoingui.cpp" line="+326"/>
         <source>Sign &amp;message...</source>
         <translation>Sign &amp;message...</translation>
     </message>
@@ -1695,7 +1695,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../dogecoinunits.cpp" line="+183"/>
+        <location filename="../berrycoinunits.cpp" line="+183"/>
         <source>Amount</source>
         <translation type="unfinished">Amount</translation>
     </message>
@@ -3510,7 +3510,7 @@
 <context>
     <name>UnitDisplayStatusBarControl</name>
     <message>
-        <location filename="../dogecoingui.cpp" line="+106"/>
+        <location filename="../berrycoingui.cpp" line="+106"/>
         <source>Unit to show amounts in. Click to select another unit.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3577,7 +3577,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <location filename="../dogecoinstrings.cpp" line="+250"/>
+        <location filename="../berrycoinstrings.cpp" line="+250"/>
         <source>Options:</source>
         <translation>Options:</translation>
     </message>

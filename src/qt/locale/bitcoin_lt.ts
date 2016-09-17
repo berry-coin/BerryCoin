@@ -132,8 +132,8 @@
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO DOGECOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO BERRYCOINUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -247,8 +247,8 @@
         <translation>&amp;Gaunami adresai...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core klientas</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -259,8 +259,8 @@
         <translation>Blokai iš naujo indeksuojami...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Siųsti monetas Dogecoin adresui</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Siųsti monetas BerryCoin adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -283,8 +283,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -299,8 +299,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Rodyti informaciją apie Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Rodyti informaciją apie BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -331,12 +331,12 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin branduolys</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;Apie Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;Apie BerryCoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -564,8 +564,8 @@
         <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Dogecoin adresas.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis BerryCoin adresas.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -586,16 +586,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin branduolys</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin branduolys</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Apie Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Apie BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -617,12 +617,12 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Sveiki atvykę į Dogecoin Core.</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Sveiki atvykę į BerryCoin Core.</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin branduolys</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin branduolys</translation>
     </message>
     <message>
         <source>Error</source>
@@ -647,8 +647,8 @@
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Dogecoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti BerryCoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1098,7 +1098,7 @@
         <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1114,8 +1114,8 @@
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Dogecoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas BerryCoin adresas</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1165,8 +1165,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin branduolys</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin branduolys</translation>
     </message>
     <message>
         <source>[testnet]</source>

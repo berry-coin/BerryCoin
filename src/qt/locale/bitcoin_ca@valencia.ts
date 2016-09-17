@@ -62,12 +62,12 @@
         <translation>S'estan rebent les adreces</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes són les vostres adreces de Dogecoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes són les vostres adreces de BerryCoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estes són les vostres adreces Dogecoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estes són les vostres adreces BerryCoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -156,8 +156,8 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES DOGECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES BERRYCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -283,8 +283,8 @@
         <translation>Obri un &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Client del Dogecoin Core</translation>
+        <source>BerryCoin Core client</source>
+        <translation>Client del BerryCoin Core</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -295,8 +295,8 @@
         <translation>S'estan reindexant els blocs al disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Envia monedes a una adreça Dogecoin</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Envia monedes a una adreça BerryCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -319,8 +319,8 @@
         <translation>&amp;Verifica el missatge...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -335,8 +335,8 @@
         <translation>&amp;Rep</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Mostra informació del Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Mostra informació del BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -351,12 +351,12 @@
         <translation>Encripta les claus privades pertanyents al moneder</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seua adreça de Dogecoin per provar que les poseeixes</translation>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seua adreça de BerryCoin per provar que les poseeixes</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Dogecoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça BerryCoin específica.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -375,16 +375,16 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Nucli de Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Nucli de BerryCoin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i dogecoin: URI)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i berrycoin: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;Quant al Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;Quant al BerryCoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -395,16 +395,16 @@
         <translation>Mostra la llista d'adreces de recepció i etiquetes utilitzades</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Obri una dogecoin: sol·licitud d'URI o pagament</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Obri una berrycoin: sol·licitud d'URI o pagament</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Opcions de la &amp;línia d'ordes</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Mostra el missatge d'ajuda del Dogecoin Core per obtindre una llista amb les possibles opcions de línia d'ordes de Dogecoin</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Mostra el missatge d'ajuda del BerryCoin Core per obtindre una llista amb les possibles opcions de línia d'ordes de BerryCoin</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -712,8 +712,8 @@
         <translation>L'adreça introduïda «%1» ja és present a la llibreta d'adreces.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de Dogecoin vàlida.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>L'adreça introduïda «%1» no és una adreça de BerryCoin vàlida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -750,8 +750,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Nucli de Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Nucli de BerryCoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -762,8 +762,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Quant al Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Quant al BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -785,16 +785,16 @@
         <translation>Vos donem la benviguda</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Vos donem la benvinguda al Dogecoin Core.</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Vos donem la benvinguda al BerryCoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Atès que és la primera vegada que executeu el programa, podeu triar on emmagatzemarà el Dogecoin Core les dades.</translation>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
+        <translation>Atès que és la primera vegada que executeu el programa, podeu triar on emmagatzemarà el BerryCoin Core les dades.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>El Dogecoin Core descarregarà i emmagatzemarà una còpia de la cadena de blocs de Dogecoin. Com a mínim s'emmagatzemaran %1 GB de dades en este directori, que seguiran creixent gradualment. També s'hi emmagatzemarà el moneder.</translation>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>El BerryCoin Core descarregarà i emmagatzemarà una còpia de la cadena de blocs de BerryCoin. Com a mínim s'emmagatzemaran %1 GB de dades en este directori, que seguiran creixent gradualment. També s'hi emmagatzemarà el moneder.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -805,8 +805,8 @@
         <translation>Utilitza un directori de dades personalitzat:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Nucli de Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Nucli de BerryCoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -923,8 +923,8 @@
         <translation>&amp;Gasta el canvi sense confirmar</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obri el port del client de Dogecoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obri el port del client de BerryCoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1018,8 +1018,8 @@
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Dogecoin un cop s'ha establit connexió, però este proces no s'ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa BerryCoin un cop s'ha establit connexió, però este proces no s'ha completat encara.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1105,16 +1105,16 @@
         <translation>Error en la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>No es pot iniciar dogecoin: gestor clica-per-pagar</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>No es pot iniciar berrycoin: gestor clica-per-pagar</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>L'URL de recuperació de la sol·licitud de pagament no és vàlida: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Dogecoin no vàlida o per paràmetres URI amb mal format.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BerryCoin address or malformed URI parameters.</source>
+        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de BerryCoin no vàlida o per paràmetres URI amb mal format.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1171,8 +1171,8 @@
         <translation>Quantitat</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Introduïu una adreça de Dogecoin (p. ex. %1)</translation>
+        <source>Enter a BerryCoin address (e.g. %1)</source>
+        <translation>Introduïu una adreça de BerryCoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1464,8 +1464,8 @@
         <translation>R&amp;eutilitza una adreça de recepció anterior (no recomanat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'òbriga la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Dogecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BerryCoin network.</source>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'òbriga la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa BerryCoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1765,8 +1765,8 @@
         <translation>S'ha rebutjat la transacció! Això pot passar si alguna de les monedes del vostre moneder ja s'han gastat; per exemple, si heu fet servir una còpia de seguretat del fitxer wallet.dat i s'hagueren gastat monedes de la còpia però sense marcar-les-hi com a gastades.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Avís: adreça Dogecoin no vàlida</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Avís: adreça BerryCoin no vàlida</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1816,8 +1816,8 @@
         <translation>Això és un pagament normal.</translation>
     </message>
     <message>
-        <source>The Dogecoin address to send the payment to</source>
-        <translation>L'adreça Dogecoin on enviar el pagament</translation>
+        <source>The BerryCoin address to send the payment to</source>
+        <translation>L'adreça BerryCoin on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1844,8 +1844,8 @@
         <translation>Introduïu una etiqueta per a esta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al dogecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Dogecoin.</translation>
+        <source>A message that was attached to the berrycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BerryCoin network.</source>
+        <translation>Un missatge que s'ha adjuntat al berrycoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa BerryCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1859,8 +1859,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>S'està parant el Dogecoin Core...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>S'està parant el BerryCoin Core...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1878,8 +1878,8 @@
         <translation>&amp;Signa el missatge</translation>
     </message>
     <message>
-        <source>The Dogecoin address to sign the message with</source>
-        <translation>L'adreça Dogecoin amb què signar el missatge</translation>
+        <source>The BerryCoin address to sign the message with</source>
+        <translation>L'adreça BerryCoin amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1910,8 +1910,8 @@
         <translation>Copia la signatura actual al porta-retalls del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'esta adreça Dogecoin</translation>
+        <source>Sign the message to prove you own this BerryCoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d'esta adreça BerryCoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1930,12 +1930,12 @@
         <translation>&amp;Verifica el missatge</translation>
     </message>
     <message>
-        <source>The Dogecoin address the message was signed with</source>
-        <translation>L'adreça Dogecoin amb què va ser signat el missatge</translation>
+        <source>The BerryCoin address the message was signed with</source>
+        <translation>L'adreça BerryCoin amb què va ser signat el missatge</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Dogecoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça BerryCoin específica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2001,12 +2001,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Nucli de Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Nucli de BerryCoin</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Els desenvolupadors del Dogecoin Core</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>Els desenvolupadors del BerryCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2515,8 +2515,8 @@
         <translation>Esta és una versió de pre-llançament - utilitza-la sota la teva responsabilitat - No usar per a minería o aplicacions de compra-venda</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>No es pot enllaçar %s a este ordinador. El Dogecoin Core probablement ja estiga executant-s'hi.</translation>
+        <source>Unable to bind to %s on this computer. BerryCoin Core is probably already running.</source>
+        <translation>No es pot enllaçar %s a este ordinador. El BerryCoin Core probablement ja estiga executant-s'hi.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2671,8 +2671,8 @@
         <translation>Vincula a l'adreça donada per a escoltar les connexions JSON-RPC. Feu servir la notació [host]:port per a IPv6. Esta opció pot ser especificada moltes vegades (per defecte: vincula a totes les interfícies)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>No es pot obtindre un bloqueig del directori de dades %s. El Dogecoin Core probablement ja s'estiga executant.</translation>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
+        <translation>No es pot obtindre un bloqueig del directori de dades %s. El BerryCoin Core probablement ja s'estiga executant.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -2691,8 +2691,8 @@
         <translation>Executa l'orde quan es reba un avís rellevant o veiem una forquilla molt llarga (%s en cmd és reemplaçat per un missatge)</translation>
     </message>
     <message>
-        <source>Fees (in DOGE/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Comissions (en DOGE/Kb) inferiors a això es consideren de comissió zero per a la transmissió (per defecte: %s)</translation>
+        <source>Fees (in BERRY/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Comissions (en BERRY/Kb) inferiors a això es consideren de comissió zero per a la transmissió (per defecte: %s)</translation>
     </message>
     <message>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
@@ -2707,8 +2707,8 @@
         <translation>Este producte inclou programari desenvolupat pel projecte OpenSSL per a ús a l'OpenSSL Toolkit &lt;https://www.openssl.org/&gt; i programari criptogràfic escrit per Eric Young i programari UPnP escrit per Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Dogecoin Core will not work properly.</source>
-        <translation>Avís: comproveu que la data i hora del vostre ordinador siguen correctes! Si el vostre rellotge no és correcte, el Dogecoin Core no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BerryCoin Core will not work properly.</source>
+        <translation>Avís: comproveu que la data i hora del vostre ordinador siguen correctes! Si el vostre rellotge no és correcte, el BerryCoin Core no funcionarà correctament.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -2731,32 +2731,32 @@
         <translation>Copyright (C) 2009-%i Els desenvolupadors del Bitcoin Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2013-%i The Dogecoin Core Developers</source>
-        <translation>Copyright (C) 2013-%i Els desenvolupadors del Dogecoin Core</translation>
+        <source>Copyright (C) 2013-%i The BerryCoin Core Developers</source>
+        <translation>Copyright (C) 2013-%i Els desenvolupadors del BerryCoin Core</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>No s'ha pogut analitzar el valor -rpcbind %s com una adreça de xarxa</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Error en carregar wallet.dat: el moneder requereix una versió més nova del Dogecoin core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BerryCoin Core</source>
+        <translation>Error en carregar wallet.dat: el moneder requereix una versió més nova del BerryCoin core</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -tor found, use -onion.</source>
         <translation>Error: s'ha trobat un argument -tor no acceptat. Feu servir -onion.</translation>
     </message>
     <message>
-        <source>Fee (in DOGE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Comissió en (DOGE/kB) per afegir a les transaccions que envieu (per defecte: %s)</translation>
+        <source>Fee (in BERRY/kB) to add to transactions you send (default: %s)</source>
+        <translation>Comissió en (BERRY/kB) per afegir a les transaccions que envieu (per defecte: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>&amp;Informació</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Dogecoin Core is shutting down.</source>
-        <translation>Ha fallat la inicialització de la comprovació de validesa. El Dogecoin Core s'està parant.</translation>
+        <source>Initialization sanity check failed. BerryCoin Core is shutting down.</source>
+        <translation>Ha fallat la inicialització de la comprovació de validesa. El BerryCoin Core s'està parant.</translation>
     </message>
     <message>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: '%s'</source>
@@ -2784,7 +2784,7 @@
     </message>
     <message>
         <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions RPC SSL: (veieu el wiki del Dogecoin per a instruccions de configuració de l'SSL)</translation>
+        <translation>Opcions RPC SSL: (veieu el wiki del BerryCoin per a instruccions de configuració de l'SSL)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -2851,8 +2851,8 @@
         <translation>Nom d'usuari per a connexions JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
-        <translation>Cal reescriure el moneder: reiniceu el Dogecoin Core per completar-ho.</translation>
+        <source>Wallet needed to be rewritten: restart BerryCoin Core to complete</source>
+        <translation>Cal reescriure el moneder: reiniceu el BerryCoin Core per completar-ho.</translation>
     </message>
     <message>
         <source>Warning</source>

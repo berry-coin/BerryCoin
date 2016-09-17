@@ -179,8 +179,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -215,12 +215,12 @@
         <translation>Shiriti i mjeteve</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Berthama Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Berthama BerryCoin</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>Rreth Berthames Dogekoin</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>Rreth Berthames BerryKoin</translation>
     </message>
     <message>
         <source>%1 and %2</source>
@@ -354,16 +354,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Berthama Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Berthama BerryCoin</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versioni</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Rreth Berthames Dogekoin</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Rreth Berthames BerryKoin</translation>
     </message>
     </context>
 <context>
@@ -373,12 +373,12 @@
         <translation>Miresevini</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Miresevini ne Berthamen Dogecoin</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Miresevini ne Berthamen BerryCoin</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Berthama Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Berthama BerryCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -565,8 +565,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Berthama Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Berthama BerryCoin</translation>
     </message>
     <message>
         <source>[testnet]</source>

@@ -66,11 +66,11 @@
         <translation>адрасы Прымання</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для высылання плацяжоў. Заўсёды спраўджвайце колькасць і адрас прызначэння перад здзяйсненнем транзакцыі.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Тут знаходзяцца Біткойн-адрасы для прымання плацяжоў. Пажадана выкарыстоўваць новы адрас для кожнай транзакцыі.</translation>
     </message>
     <message>
@@ -160,7 +160,7 @@
         <translation>Пацвердзіце шыфраванне гаманца</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
         <translation>Увага: калі вы зашыфруеце свой гаманец і страціце парольную фразу, то &lt;b&gt;СТРАЦІЦЕ ЎСЕ СВАЕ БІТКОЙНЫ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -168,8 +168,8 @@
         <translation>Ці ўпэўненыя вы, што жадаеце зашыфраваць свой гаманец?</translation>
     </message>
     <message>
-        <source>Dogecoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your dogecoins from being stolen by malware infecting your computer.</source>
-        <translation>Dogecoin Core зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
+        <source>BerryCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your berrycoins from being stolen by malware infecting your computer.</source>
+        <translation>BerryCoin Core зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -295,8 +295,8 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core кліент</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core кліент</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -307,7 +307,7 @@
         <translation>Пераіндэксацыя блокаў на дыску...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a BerryCoin address</source>
         <translation>Даслаць манеты на Біткойн-адрас</translation>
     </message>
     <message>
@@ -331,7 +331,7 @@
         <translation>Праверыць паведамленне...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>BerryCoin</source>
         <translation>Біткойн</translation>
     </message>
     <message>
@@ -347,8 +347,8 @@
         <translation>Атрымаць</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Паказаць інфармацыю аб Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Паказаць інфармацыю аб BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -363,11 +363,11 @@
         <translation>Зашыфраваць прыватныя ключы, якия належаць вашаму гаманцу</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
         <translation>Падпісаць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
         <translation>Спраўдзіць паведамленне з дапамогай Біткойн-адраса каб даказаць, што яно належыць вам</translation>
     </message>
     <message>
@@ -383,20 +383,20 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
         <translation>Запатрабаваць плацёж (генеруецца QR-код для біткойн URI)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>Аб Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>Аб BerryCoin Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Dogecoin Core</source>
-        <translation>Мадыфікаваць опцыі канфігурацыі Dogecoin Core</translation>
+        <source>Modify configuration options for BerryCoin Core</source>
+        <translation>Мадыфікаваць опцыі канфігурацыі BerryCoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -407,7 +407,7 @@
         <translation>Паказаць спіс адрасоў і метак для прымання</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
+        <source>Open a berrycoin: URI or payment request</source>
         <translation>Адкрыць біткойн: URI ці запыт плацяжу</translation>
     </message>
     <message>
@@ -415,12 +415,12 @@
         <translation>Опцыі каманднага радка</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Паказваць даведку Dogecoin Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Паказваць даведку BerryCoin Core каб атрымаць спіс магчымых опцый каманднага радка</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n актыўнае злучэнне з сецівам Dogecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Dogecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Dogecoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам Dogecoin</numerusform></translation>
+        <source>%n active connection(s) to BerryCoin network</source>
+        <translation><numerusform>%n актыўнае злучэнне з сецівам BerryCoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам BerryCoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам BerryCoin</numerusform><numerusform>%n актыўных злучэнняў з сецівам BerryCoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -772,16 +772,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-біт)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Аб Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Аб BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -803,12 +803,12 @@
         <translation>Вітаем</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Вітаем у Dogecoin Core.</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Вітаем у BerryCoin Core.</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1067,12 +1067,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Распрацоўнікі Dogecoin Core</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>Распрацоўнікі BerryCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>

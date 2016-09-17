@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Izvēlies adresi uz kuru sūtīt dogecoins</translation>
+        <translation>Izvēlies adresi uz kuru sūtīt berrycoins</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Izvēlies adresi ar kuru saņemt dogecoins</translation>
+        <translation>Izvēlies adresi ar kuru saņemt berrycoins</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -144,8 +144,8 @@
         <translation>Apstiprināt maciņa šifrēšanu</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS DOGECOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Brīdinājums: Ja tu nošifrē savu maciņu un pazaudē paroli, tu &lt;b&gt;PAZAUDĒSI VISAS SAVAS BERRYCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -263,8 +263,8 @@
         <translation>Atvērt &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core klients</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core klients</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -275,8 +275,8 @@
         <translation>Bloku reindeksēšana no diska...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Nosūtīt bitkoinus uz Dogecoin adresi</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Nosūtīt bitkoinus uz BerryCoin adresi</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -299,8 +299,8 @@
         <translation>&amp;Pārbaudīt ziņojumu...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -315,8 +315,8 @@
         <translation>&amp;Saņemt</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Parādīt informāciju par Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Parādīt informāciju par BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -331,12 +331,12 @@
         <translation>Šifrēt privātās atslēgas kuras pieder tavam maciņam</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Parakstīt ziņojumus ar savām Dogecoin adresēm lai pierādītu ka tās pieder tev</translation>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
+        <translation>Parakstīt ziņojumus ar savām BerryCoin adresēm lai pierādītu ka tās pieder tev</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām Dogecoin adresēm</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Pārbaudīt ziņojumus lai pārliecinātos, ka tie tika parakstīti ar norādītajām BerryCoin adresēm</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -355,20 +355,20 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Pieprasīt maksājumus (izveido QR kodu un dogecoin: URIs)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Pieprasīt maksājumus (izveido QR kodu un berrycoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>Par &amp;Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>Par &amp;BerryCoin Core</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Atvērt dogecoin URI vai maksājuma pieprasījumu</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Atvērt berrycoin URI vai maksājuma pieprasījumu</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -644,8 +644,8 @@
         <translation>Nupat ierakstītā adrese "%1" jau atrodas adrešu grāmatā.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Ierakstītā adrese "%1" nav derīga Dogecoin adrese.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Ierakstītā adrese "%1" nav derīga BerryCoin adrese.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -678,8 +678,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -690,8 +690,8 @@
         <translation>(%1-biti)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Par Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Par BerryCoin Core</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -709,8 +709,8 @@
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Sveicināts Dogecoin Core</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Sveicināts BerryCoin Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -721,8 +721,8 @@
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -808,15 +808,15 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Ieslēgt dogecoin &amp;kontroles funkcijas</translation>
+        <translation>Ieslēgt berrycoin &amp;kontroles funkcijas</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
         <translation>&amp;Tērēt neapstiprinātu atlikumu</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Uz rūtera automātiski atvērt Dogecoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Uz rūtera automātiski atvērt BerryCoin klienta portu. Tas strādā tikai tad, ja rūteris atbalsta UPnP un tas ir ieslēgts.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -868,7 +868,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Vai rādīt Dogecoin kontroles funkcijas vai nē.</translation>
+        <translation>Vai rādīt BerryCoin kontroles funkcijas vai nē.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -902,8 +902,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar Dogecoin tīklu, taču šis process vēl nav beidzies.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Attēlotā informācija var būt novecojusi. Jūsu maciņš pēc savienojuma izveides automātiski sinhronizējas ar BerryCoin tīklu, taču šis process vēl nav beidzies.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -949,8 +949,8 @@
         <translation>Maksājumu pieprasījuma kļūda</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Nevar palaist Dogecoin: nospied-lai-maksātu apstrādātāju</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>Nevar palaist BerryCoin: nospied-lai-maksātu apstrādātāju</translation>
     </message>
     <message>
         <source>Refund from %1</source>
@@ -1282,11 +1282,11 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Dogekoinus</translation>
+        <translation>Sūtīt BerryKoinus</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Dogecoin Kontroles Funkcijas</translation>
+        <translation>BerryCoin Kontroles Funkcijas</translation>
     </message>
     <message>
         <source>Inputs...</source>
@@ -1421,8 +1421,8 @@
         <translation>Transakcijas izveidošana neizdevās!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Brīdinājums: Nederīga Dogecoin adrese</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Brīdinājums: Nederīga BerryCoin adrese</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1495,8 +1495,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin Core tiek izslēgta...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>BerryCoin Core tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1542,8 +1542,8 @@
         <translation>Kopēt parakstu uz sistēmas starpliktuvi</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs Dogecoin adreses īpašnieks.</translation>
+        <source>Sign the message to prove you own this BerryCoin address</source>
+        <translation>Parakstīt ziņojumu lai pierādītu, ka esi šīs BerryCoin adreses īpašnieks.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1625,12 +1625,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Dogecoin Core izstrādātāji</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>BerryCoin Core izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2010,7 +2010,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Sūtīt Dogekoinus</translation>
+        <translation>Sūtīt BerryKoinus</translation>
     </message>
 </context>
 <context>

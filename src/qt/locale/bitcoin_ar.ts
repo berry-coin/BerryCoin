@@ -66,11 +66,11 @@
         <translation>استقبال العناوين</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>هذه هي عناوين Bitcion التابعة لك من أجل إرسال الدفعات. تحقق دائما من المبلغ و عنوان المرسل المستقبل قبل إرسال العملات</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>هذه هي عناوين Bitcion التابعة لك من أجل إستقبال الدفعات. ينصح استخدام عنوان جديد من أجل كل صفقة</translation>
     </message>
     <message>
@@ -156,8 +156,8 @@
         <translation>تأكيد تشفير المحفظة</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات DOGECOINS الخاصة بك.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>تحذير: إذا قمت بتشفير محفظتك وفقدت كلمة المرور الخاص بك, ستفقد كل عملات BERRYCOINS الخاصة بك.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -283,7 +283,7 @@
         <translation>افتح &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
+        <source>BerryCoin Core client</source>
         <translation>عميل bitcion core</translation>
     </message>
     <message>
@@ -295,7 +295,7 @@
         <translation>إعادة الفهرسة الكتل على القرص ...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
+        <source>Send coins to a BerryCoin address</source>
         <translation>ارسل عملات الى عنوان بيتكوين</translation>
     </message>
     <message>
@@ -315,7 +315,7 @@
         <translation>&amp;التحقق من الرسالة...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
+        <source>BerryCoin</source>
         <translation>بت كوين</translation>
     </message>
     <message>
@@ -327,7 +327,7 @@
         <translation>&amp;استقبل</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
+        <source>Show information about BerryCoin Core</source>
         <translation>  اظهار معلومات حول bitcion core</translation>
     </message>
     <message>
@@ -359,12 +359,12 @@
         <translation>شريط أدوات علامات التبويب</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>حول dogecoin core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>حول berrycoin core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -602,7 +602,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -610,7 +610,7 @@
         <translation>النسخة</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
+        <source>About BerryCoin Core</source>
         <translation>عن جوهر البيت كوين</translation>
     </message>
     <message>
@@ -633,7 +633,7 @@
         <translation>استخدام دليل بيانات مخصص:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -1202,7 +1202,7 @@
         <translation>التوقيع</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>وقع الرسالة لتثبت انك تمتلك عنوان البت كوين هذا</translation>
     </message>
     <message>
@@ -1269,11 +1269,11 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
+        <source>BerryCoin Core</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
+        <source>The BerryCoin Core developers</source>
         <translation>مطوري جوهر البيت كوين</translation>
     </message>
     <message>

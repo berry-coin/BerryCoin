@@ -66,12 +66,12 @@
         <translation>Adres odbiorczy</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tutaj znajdują się adresy Dogecoin na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tutaj znajdują się adresy BerryCoin na które wysyłasz płatności. Zawsze sprawdzaj ilość i adres odbiorcy przed wysyłką monet.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To twoje adresy Dogecoin, na które otrzymujesz płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To twoje adresy BerryCoin, na które otrzymujesz płatności. Zaleca się używanie nowych adresów odbiorczych dla każdej transakcji.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Potwierdź szyfrowanie portfela</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE DOGECOIN'Y&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Uwaga: Jeśli zaszyfrujesz swój portfel i zgubisz hasło to &lt;b&gt;STRACISZ WSZYSTKIE SWOJE BERRYCOIN'Y&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -287,8 +287,8 @@
         <translation>Otwórz URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Rdzeń klienta Dogecoin</translation>
+        <source>BerryCoin Core client</source>
+        <translation>Rdzeń klienta BerryCoin</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,8 +299,8 @@
         <translation>Ponowne indeksowanie bloków na dysku...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Wyślij monety na adres Dogecoin</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Wyślij monety na adres BerryCoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,8 +323,8 @@
         <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,8 +339,8 @@
         <translation>Odbie&amp;rz</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Pokaż informacje o Rdzeniu Dogecoin</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Pokaż informacje o Rdzeniu BerryCoin</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,12 +355,12 @@
         <translation>Szyfruj klucze prywatne, które są w Twoim portfelu</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
         <translation>Podpisz wiadomości swoim adresem aby udowodnić jego posiadanie</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem Dogecoin.</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana podanym adresem BerryCoin.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,16 +379,16 @@
         <translation>Pasek zakładek</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Rdzeń Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Rdzeń BerryCoin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Żądaj płatności (generuje kod QR oraz dogecoin URI)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Żądaj płatności (generuje kod QR oraz berrycoin URI)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;O Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;O BerryCoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -399,16 +399,16 @@
         <translation>Pokaż listę adresów i etykiet użytych do odbierania</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Otwórz URI dogecoin: lub żądanie zapłaty</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Otwórz URI berrycoin: lub żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Opcje linii komend</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Pokaż pomoc Rdzenia Dogecoin, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Pokaż pomoc Rdzenia BerryCoin, aby zobaczyć listę wszystkich opcji linii poleceń</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -728,8 +728,8 @@
         <translation>Wprowadzony adres "%1" już istnieje w książce adresowej.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Wprowadzony adres "%1" nie jest poprawnym adresem Dogecoin.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Wprowadzony adres "%1" nie jest poprawnym adresem BerryCoin.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -766,8 +766,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Rdzeń Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Rdzeń BerryCoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -778,8 +778,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>O Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>O BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -801,16 +801,16 @@
         <translation>Witaj</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Witam w Dogecoin Core</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Witam w BerryCoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Ponieważ jest to pierwsze uruchomienie programu, możesz wybrać gdzie Dogecoin Core będzie przechowywał swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
+        <translation>Ponieważ jest to pierwsze uruchomienie programu, możesz wybrać gdzie BerryCoin Core będzie przechowywał swoje dane.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków Dogecoin. W wybranym katalogu musi być przynajmniej %1GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Program pobierze i będzie przechowywał kopię łańcucha bloków BerryCoin. W wybranym katalogu musi być przynajmniej %1GB miejsca, a z czasem ilość danych będzie rosła. Portfel będzie przechowywany w tym samym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -821,8 +821,8 @@
         <translation>Użyj wybranego folderu dla danych</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Rdzeń Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Rdzeń BerryCoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -927,16 +927,16 @@
         <translation>Wydaj niepotwierdzoną re&amp;sztę</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwiera port klienta Dogecoin na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwiera port klienta BerryCoin na routerze. Ta opcja dzieła tylko jeśli twój router wspiera UPnP i jest ono włączone.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapuj port używając &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS5 proxy.</source>
-        <translation>Połącz się z siecią Dogecoin poprzez proxy SOCKS5.</translation>
+        <source>Connect to the BerryCoin network through a SOCKS5 proxy.</source>
+        <translation>Połącz się z siecią BerryCoin poprzez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1030,8 +1030,8 @@
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią dogecoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlana informacja może być nieaktualna. Twój portfel synchronizuje się automatycznie z siecią berrycoin, zaraz po tym jak uzyskano połączenie, ale proces ten nie został jeszcze ukończony.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1129,8 +1129,8 @@
         <translation>Błąd żądania płatności</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Nie można uruchomić protokołu dogecoin: kliknij-by-zapłacić</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>Nie można uruchomić protokołu berrycoin: kliknij-by-zapłacić</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1171,8 +1171,8 @@
         <translation>Kwota</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Wprowadź adres Dogecoin (np. %1)</translation>
+        <source>Enter a BerryCoin address (e.g. %1)</source>
+        <translation>Wprowadź adres BerryCoin (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1785,8 +1785,8 @@
         <translation>Płac tylko minimalna opłatę %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Ostrzeżenie: nieprawidłowy adres Dogecoin</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Ostrzeżenie: nieprawidłowy adres BerryCoin</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1871,8 +1871,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin Core się zamyka...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>BerryCoin Core się zamyka...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1918,7 +1918,7 @@
         <translation>Kopiuje aktualny podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>Podpisz wiadomość aby dowieść, że ten adres jest twój</translation>
     </message>
     <message>
@@ -1938,8 +1938,8 @@
         <translation>&amp;Zweryfikuj wiadomość</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem Dogecoin.</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Zweryfikuj wiadomość,  aby upewnić się, że została podpisana odpowiednim adresem BerryCoin.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2005,12 +2005,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Rdzeń Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Rdzeń BerryCoin</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Deweloperzy Dogecoin Core</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>Deweloperzy BerryCoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2499,8 +2499,8 @@
         <translation>To jest testowa wersja - używaj na własne ryzyko - nie używaj do wykopywania oraz przy aplikacjach kupieckich</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>Nie można przywiązać z portem %s na tym komputerze. Dogecoin Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. BerryCoin Core is probably already running.</source>
+        <translation>Nie można przywiązać z portem %s na tym komputerze. BerryCoin Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2659,8 +2659,8 @@
         <translation>Napotkano błąd podczas ustawiania adres RPC %s port %u dla nasłuchiwania: %s</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>Nie można uzyskać blokady na katalogu z danymi %s. Rdzeń Dogecoin najprawdopodobniej jest już uruchomiony.</translation>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
+        <translation>Nie można uzyskać blokady na katalogu z danymi %s. Rdzeń BerryCoin najprawdopodobniej jest już uruchomiony.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -2711,12 +2711,12 @@
         <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2013-%i The Dogecoin Core Developers</source>
-        <translation>Copyright (C) 2013-%i The Dogecoin Core Developers</translation>
+        <source>Copyright (C) 2013-%i The BerryCoin Core Developers</source>
+        <translation>Copyright (C) 2013-%i The BerryCoin Core Developers</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji Dogecoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BerryCoin Core</source>
+        <translation>Błąd ładowania wallet.dat: Portfel wymaga nowszej wersji BerryCoin Core</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -2727,16 +2727,16 @@
         <translation>Błąd: Znaleziono nieprawidłowy argument -tor, użyj -onion.</translation>
     </message>
     <message>
-        <source>Fee (in DOGE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Prowizja (w DOGE za kB) dodawana do wysyłanej transakcji (domyślnie: %s)</translation>
+        <source>Fee (in BERRY/kB) to add to transactions you send (default: %s)</source>
+        <translation>Prowizja (w BERRY za kB) dodawana do wysyłanej transakcji (domyślnie: %s)</translation>
     </message>
     <message>
         <source>Information</source>
         <translation>Informacja</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Dogecoin Core is shutting down.</source>
-        <translation>Wstępna kontrola poprawności nie powiodła się. Dogecoin Core wyłącza się.</translation>
+        <source>Initialization sanity check failed. BerryCoin Core is shutting down.</source>
+        <translation>Wstępna kontrola poprawności nie powiodła się. BerryCoin Core wyłącza się.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -2835,8 +2835,8 @@
         <translation>Nazwa użytkownika dla połączeń JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
-        <translation>Portfel wymaga przepisania: zrestartuj Dogecoina aby ukończyć</translation>
+        <source>Wallet needed to be rewritten: restart BerryCoin Core to complete</source>
+        <translation>Portfel wymaga przepisania: zrestartuj BerryCoina aby ukończyć</translation>
     </message>
     <message>
         <source>Warning</source>

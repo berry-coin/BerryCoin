@@ -155,8 +155,8 @@
         <translation>แถบเครื่องมือ</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Dogecoin</numerusform></translation>
+        <source>%n active connection(s) to BerryCoin network</source>
+        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย BerryCoin</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

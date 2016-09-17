@@ -167,12 +167,12 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core client</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core client</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -207,12 +207,12 @@
         <translation>Trợ &amp;giúp</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;Về Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;Về BerryCoin Core</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -362,16 +362,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Về Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Về BerryCoin Core</translation>
     </message>
     </context>
 <context>
@@ -381,8 +381,8 @@
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -577,8 +577,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin Core</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin Core</translation>
     </message>
     </context>
 <context>

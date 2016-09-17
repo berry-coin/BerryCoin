@@ -67,11 +67,11 @@
     </message>
     <message>
         <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>これらは支払いを送信するためのあなたの BerryCoin アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
+        <translation>これらは支払いを送信するためのあなたのBerryCoinアドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
     </message>
     <message>
         <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>これらは支払いを受け取るためのベリーコインアドレスです。トランザクションごとに新しい受け取り用アドレスを作成することが推奨されます。</translation>
+        <translation>これらは支払いを受け取るためのBerryCoinアドレスです。トランザクションごとに新しい受け取り用アドレスを作成することが推奨されます。</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>BerryCoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BerryCoins from being stolen by malware infecting your computer.</source>
-        <translation>暗号化処理を完了させるため BerryCoin Core をいますぐ終了します。ウォレットの暗号化では、コンピュータに感染したマルウェアなどによるベリーコインの盗難から完全に守ることはできないことにご注意ください。</translation>
+        <translation>暗号化処理を完了させるため BerryCoin Core をいますぐ終了します。ウォレットの暗号化では、コンピュータに感染したマルウェアなどによるBerryCoinの盗難から完全に守ることはできないことにご注意ください。</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>&amp;About BerryCoin Core</source>
-        <translation>ベリーコインコアについて (&amp;A)</translation>
+        <translation>BerryCoinコアについて (&amp;A)</translation>
     </message>
     <message>
         <source>Modify configuration options for BerryCoin Core</source>
@@ -888,7 +888,7 @@
     </message>
     <message>
         <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>BerryCoin Coreは、ベリーコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
+        <translation>BerryCoin Coreは、BerryCoinのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -2103,7 +2103,7 @@
     </message>
     <message>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less BerryCoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>送金する金額から手数料が差し引かれます。受取人は数量フィールドで指定した量よりも少ないベリーコインを受け取ります。受取人が複数いる場合には、手数料は均等割されます。</translation>
+        <translation>送金する金額から手数料が差し引かれます。受取人は数量フィールドで指定した量よりも少ないBerryCoinを受け取ります。受取人が複数いる場合には、手数料は均等割されます。</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2161,7 +2161,7 @@
     </message>
     <message>
         <source>You can sign messages/agreements with your addresses to prove you can receive BerryCoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>あなたの所有しているアドレスによりメッセージや合意書に署名をすることで、それらアドレスに対して送られたベリーコインを受け取ることができることを証明できます。フィッシング攻撃により不正にあなたの識別情報を署名させられてしまうことを防ぐために、不明確なものやランダムなものに対して署名しないよう注意してください。合意することが可能な、よく詳細の記された文言にのみ署名するようにしてください。</translation>
+        <translation>あなたの所有しているアドレスによりメッセージや合意書に署名をすることで、それらアドレスに対して送られたBerryCoinを受け取ることができることを証明できます。フィッシング攻撃により不正にあなたの識別情報を署名させられてしまうことを防ぐために、不明確なものやランダムなものに対して署名しないよう注意してください。合意することが可能な、よく詳細の記された文言にのみ署名するようにしてください。</translation>
     </message>
     <message>
         <source>The BerryCoin address to sign the message with</source>
@@ -2296,7 +2296,7 @@
     </message>
     <message>
         <source>The BerryCoin Core developers</source>
-        <translation>ベリーコインコアの開発者</translation>
+        <translation>BerryCoinコアの開発者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3239,7 +3239,7 @@ rpcpassword=%s
     </message>
     <message>
         <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL オプション: (SSLのセットアップ手順はベリーコインWikiを参照してください)</translation>
+        <translation>RPC SSL オプション: (SSLのセットアップ手順はBerryCoinWikiを参照してください)</translation>
     </message>
     <message>
         <source>RPC server options:</source>

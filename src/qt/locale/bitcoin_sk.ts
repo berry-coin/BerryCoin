@@ -66,12 +66,12 @@
         <translation>Adresa prijatia</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú Vaše Dogecoin adresy pre posielanie platieb. Vždy skontrolujte množstvo a prijímaciu adresu pred poslaním coins.</translation>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú Vaše BerryCoin adresy pre posielanie platieb. Vždy skontrolujte množstvo a prijímaciu adresu pred poslaním coins.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše Dogecoin adresy pre prijímanie platieb. Odporúča sa použiť novú prijímaciu adresu pre každú transakciu.</translation>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše BerryCoin adresy pre prijímanie platieb. Odporúča sa použiť novú prijímaciu adresu pre každú transakciu.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE DOGECOINY&lt;/b&gt;!⏎</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE BERRYCOINY&lt;/b&gt;!⏎</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -287,8 +287,8 @@
         <translation>Otvoriť &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core klient</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,8 +299,8 @@
         <translation>Preindexúvam bloky na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Poslať dogecoins na adresu</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Poslať berrycoins na adresu</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,8 +323,8 @@
         <translation>Overiť správu</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,8 +339,8 @@
         <translation>&amp;Prijať</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Zobraziť informácie o Dogecoin Core</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Zobraziť informácie o BerryCoin Core</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,12 +355,12 @@
         <translation>Zašifruj súkromné kľúče ktoré patria do vašej peňaženky</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Podpísať správu s vašou adresou Dogecoin aby ste preukázali že ju vlastníte</translation>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
+        <translation>Podpísať správu s vašou adresou BerryCoin aby ste preukázali že ju vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Overiť či správa bola podpísaná uvedenou Dogecoin adresou</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Overiť či správa bola podpísaná uvedenou BerryCoin adresou</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,16 +379,16 @@
         <translation>Lišta záložiek</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jadro Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Jadro BerryCoin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Vyžiadať platbu (vygeneruje QR kód a dogecoin: URI)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Vyžiadať platbu (vygeneruje QR kód a berrycoin: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>O jadre Dogecoin</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>O jadre BerryCoin</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -399,16 +399,16 @@
         <translation>Zobraziť zoznam použitých prijímacích adries a ich popisov</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Otvoriť dogecoin URI alebo výzvu k platbe</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Otvoriť berrycoin URI alebo výzvu k platbe</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Možnosti príkazového riadku</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Zobraziť pomocnú správu od Dogecoin Jadra pre získanie zoznamu dostupných možností príkazového riadku</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Zobraziť pomocnú správu od BerryCoin Jadra pre získanie zoznamu dostupných možností príkazového riadku</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -728,8 +728,8 @@
         <translation>Vložená adresa "%1" sa už nachádza v adresári.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Vložená adresa "%1" nieje platnou adresou dogecoin.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Vložená adresa "%1" nieje platnou adresou berrycoin.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -766,8 +766,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jadro Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Jadro BerryCoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -778,8 +778,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>O jadre Dogecoin</translation>
+        <source>About BerryCoin Core</source>
+        <translation>O jadre BerryCoin</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -801,16 +801,16 @@
         <translation>Vitajte</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Vitajte v jadre Dogecoin.</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Vitajte v jadre BerryCoin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Keďže spúštate program prvý krát, môžte si vybrať kde bude Dogecoin Jadro ukladať svoje dáta.</translation>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
+        <translation>Keďže spúštate program prvý krát, môžte si vybrať kde bude BerryCoin Jadro ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Jadro Dogecoin stiahne zo siete a uloží kópiu Dogecoin blockchain. Aspoň %1GB dát bude uložených v tomto priečinku a časom porastie. Peňaženka bude tiež uložená v tomto priečinku.</translation>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Jadro BerryCoin stiahne zo siete a uloží kópiu BerryCoin blockchain. Aspoň %1GB dát bude uložených v tomto priečinku a časom porastie. Peňaženka bude tiež uložená v tomto priečinku.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -821,8 +821,8 @@
         <translation>Použiť vlastný dátový adresár:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jadro Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Jadro BerryCoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -935,16 +935,16 @@
         <translation>Minúť nepotvrdený výdavok</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvorit port pre Dogecoin na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvorit port pre BerryCoin na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Mapovať port pomocou &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS5 proxy.</source>
-        <translation>Pripojiť do siete Dogecoin cez proxy server SOCKS5.</translation>
+        <source>Connect to the BerryCoin network through a SOCKS5 proxy.</source>
+        <translation>Pripojiť do siete BerryCoin cez proxy server SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -992,7 +992,7 @@
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Zvoľte ako deliť dogecoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
+        <translation>Zvoľte ako deliť berrycoin pri zobrazovaní pri platbách a užívateľskom rozhraní.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1038,8 +1038,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť neaktuálne. Vaša peňaženka sa automaticky synchronizuje so sieťou Dogecoin po nadviazaní spojenia, ale tento proces ešte nie je ukončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť neaktuálne. Vaša peňaženka sa automaticky synchronizuje so sieťou BerryCoin po nadviazaní spojenia, ale tento proces ešte nie je ukončený.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1101,8 +1101,8 @@
         <translation>Chyba pri vyžiadaní platby</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Nedá sa spustiť obslužný program dogecoin: click-to-pay zaplatiť kliknutím</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>Nedá sa spustiť obslužný program berrycoin: click-to-pay zaplatiť kliknutím</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1155,8 +1155,8 @@
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Zadajte dogecoin adresu (napr. %1)</translation>
+        <source>Enter a BerryCoin address (e.g. %1)</source>
+        <translation>Zadajte berrycoin adresu (napr. %1)</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -1404,8 +1404,8 @@
         <translation>Znovu použiť jestvujúcu prijímaciu adresu (neodporúča sa)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Pridať voliteľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť Dogecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BerryCoin network.</source>
+        <translation>Pridať voliteľnú správu k výzve na zaplatenie, ktorá sa zobrazí keď bude výzva otvorená. Poznámka: Správa nebude poslaná s platbou cez sieť BerryCoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1554,7 +1554,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Poslať Dogecoins</translation>
+        <translation>Poslať BerryCoins</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1629,7 +1629,7 @@
         <translation>spolu aspoň</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for dogecoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for berrycoin transactions than the network can process.</source>
         <translation>Zaplatenie len minimálneho poplatku je v poriadku, pokiaľ existuje menej transakcií ako miesta v blokoch. Uvedomte si však, že ak bude vyšší dopyt po transakciách ako dokáže sieť spracovať, môže byť vaša transakcia odsúvaná a nepotvrdená donekonečna.</translation>
     </message>
     <message>
@@ -1702,7 +1702,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie dogecoins</translation>
+        <translation>Potvrdiť odoslanie berrycoins</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1769,8 +1769,8 @@
         <translation>Zaplatiť minimálny poplatok %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Varovanie: Nesprávna Dogecoin adresa</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Varovanie: Nesprávna BerryCoin adresa</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1844,8 +1844,8 @@
         <translation>Vložte popis pre túto adresu aby sa uložila do zoznamu použitých adries</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Správa ktorá bola pripojená k dogecoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť Dogecoin.</translation>
+        <source>A message that was attached to the berrycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BerryCoin network.</source>
+        <translation>Správa ktorá bola pripojená k berrycoin: URI a ktorá bude uložená s transakcou pre Vaše potreby. Poznámka: Táto správa nebude poslaná cez sieť BerryCoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1859,8 +1859,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Jadro Dogecoin sa ukončuje...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>Jadro BerryCoin sa ukončuje...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1906,7 +1906,7 @@
         <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
+        <source>Sign the message to prove you own this BerryCoin address</source>
         <translation>Podpíšte správu aby ste dokázali že vlastníte túto adresu</translation>
     </message>
     <message>
@@ -1926,8 +1926,8 @@
         <translation>Overiť správu...</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Overím správy sa uistiť že bola podpísaná označenou Dogecoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Overím správy sa uistiť že bola podpísaná označenou BerryCoin adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1993,12 +1993,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Jadro Dogecoin</translation>
+        <source>BerryCoin Core</source>
+        <translation>Jadro BerryCoin</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Vývojári jadra Dogecoin</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>Vývojári jadra BerryCoin</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2394,7 +2394,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Poslať Dogecoins</translation>
+        <translation>Poslať BerryCoins</translation>
     </message>
 </context>
 <context>
@@ -2480,11 +2480,11 @@
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Toto je pred-testovacia verzia - použitie je na vlastné riziko - nepoužívajte na tvorbu dogecoin ani obchodovanie.</translation>
+        <translation>Toto je pred-testovacia verzia - použitie je na vlastné riziko - nepoužívajte na tvorbu berrycoin ani obchodovanie.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>Nepodarilo sa pripojiť na %s na tomto počítači. Dogecoin Jadro je už pravdepodobne spustené.</translation>
+        <source>Unable to bind to %s on this computer. BerryCoin Core is probably already running.</source>
+        <translation>Nepodarilo sa pripojiť na %s na tomto počítači. BerryCoin Jadro je už pravdepodobne spustené.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2629,8 +2629,8 @@ The network does not appear to fully agree! Some miners appear to be experiencin
         <translation>Importuje bloky z externého súboru blk000??.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>Neviem uzamknúť data adresár %s. Jadro Dogecoin je pravdepodobne už spustené.</translation>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
+        <translation>Neviem uzamknúť data adresár %s. Jadro BerryCoin je pravdepodobne už spustené.</translation>
     </message>
     <message>
         <source>Error: Listening for incoming connections failed (listen returned error %s)</source>
@@ -2641,8 +2641,8 @@ The network does not appear to fully agree! Some miners appear to be experiencin
         <translation>Vykonať príkaz po prijatí patričného varovania alebo uvidíme veľmi dlhé rozdvojenie siete (%s v cmd je nahradené správou)</translation>
     </message>
     <message>
-        <source>Fees (in DOGE/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Poplatky (v DOGE/Kb) nižšie ako toľkoto sa považujú za nulové pri postupovaní transakcií (predvolené: %s)</translation>
+        <source>Fees (in BERRY/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Poplatky (v BERRY/Kb) nižšie ako toľkoto sa považujú za nulové pri postupovaní transakcií (predvolené: %s)</translation>
     </message>
     <message>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: %d)</source>
@@ -2657,12 +2657,12 @@ The network does not appear to fully agree! Some miners appear to be experiencin
         <translation>Pripojiť cez proxy server SOCKS5</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Chyba pri čítaní wallet.dat: Peňaženka vyžaduje vyššiu verziu Jadra Dogecoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BerryCoin Core</source>
+        <translation>Chyba pri čítaní wallet.dat: Peňaženka vyžaduje vyššiu verziu Jadra BerryCoin</translation>
     </message>
     <message>
-        <source>Fee (in DOGE/kB) to add to transactions you send (default: %s)</source>
-        <translation>Poplatok (v DOGE/kB), ktorý sa pridá k transakciám, ktoré odosielate (predvolený: %s)</translation>
+        <source>Fee (in BERRY/kB) to add to transactions you send (default: %s)</source>
+        <translation>Poplatok (v BERRY/kB), ktorý sa pridá k transakciám, ktoré odosielate (predvolený: %s)</translation>
     </message>
     <message>
         <source>Information</source>

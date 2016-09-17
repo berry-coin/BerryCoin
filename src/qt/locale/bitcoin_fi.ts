@@ -66,12 +66,12 @@
         <translation>Vastaanottava osoite</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun Dogecoin osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
+        <source>These are your BerryCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun BerryCoin osoitteita maksujen lähetykseen. Tarkista aina summa ja vastaanottajan osoite ennenkuin lähetät kolikkoja.</translation>
     </message>
     <message>
-        <source>These are your Dogecoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun Dogecoin-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
+        <source>These are your BerryCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun BerryCoin-osoitteesi suoritusten vastaanottamiseen. Suositellaan että annat uuden osoitteen kullekin transaktiolle.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,8 +160,8 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DOGECOINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI DOGECOINISI&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BERRYCOINS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja menetät tunnuslauseesi, &lt;b&gt;MENETÄT KAIKKI BERRYCOINISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -287,8 +287,8 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Dogecoin Core client</source>
-        <translation>Dogecoin Core ohjelma</translation>
+        <source>BerryCoin Core client</source>
+        <translation>BerryCoin Core ohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -299,8 +299,8 @@
         <translation>Ladataan lohkoindeksiä...</translation>
     </message>
     <message>
-        <source>Send coins to a Dogecoin address</source>
-        <translation>Lähetä kolikoita Dogecoin-osoitteeseen</translation>
+        <source>Send coins to a BerryCoin address</source>
+        <translation>Lähetä kolikoita BerryCoin-osoitteeseen</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,8 +323,8 @@
         <translation>Varmista &amp;viesti...</translation>
     </message>
     <message>
-        <source>Dogecoin</source>
-        <translation>Dogecoin</translation>
+        <source>BerryCoin</source>
+        <translation>BerryCoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -339,8 +339,8 @@
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Show information about Dogecoin Core</source>
-        <translation>Näytä tietoja Dogecoin Core:sta</translation>
+        <source>Show information about BerryCoin Core</source>
+        <translation>Näytä tietoja BerryCoin Core:sta</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -348,19 +348,19 @@
     </message>
     <message>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota Dogecoin-ikkuna</translation>
+        <translation>Näytä tai piilota BerryCoin-ikkuna</translation>
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
         <translation>Suojaa yksityiset avaimet, jotka kuuluvat lompakkoosi</translation>
     </message>
     <message>
-        <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla Dogecoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your BerryCoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla BerryCoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dogecoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä Dogecoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified BerryCoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä BerryCoin -osoitteella</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,16 +379,16 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin-ydin</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin-ydin</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dogecoin: URIs)</source>
-        <translation>Pyydä maksuja (Luo QR koodit ja dogecoin: URIt)</translation>
+        <source>Request payments (generates QR codes and berrycoin: URIs)</source>
+        <translation>Pyydä maksuja (Luo QR koodit ja berrycoin: URIt)</translation>
     </message>
     <message>
-        <source>&amp;About Dogecoin Core</source>
-        <translation>&amp;Tietoja Dogecoin Core</translation>
+        <source>&amp;About BerryCoin Core</source>
+        <translation>&amp;Tietoja BerryCoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -399,20 +399,20 @@
         <translation>Näytä vastaanottamiseen käytettyjen osoitteiden ja nimien lista</translation>
     </message>
     <message>
-        <source>Open a dogecoin: URI or payment request</source>
-        <translation>Avaa dogecoin: URI tai maksupyyntö</translation>
+        <source>Open a berrycoin: URI or payment request</source>
+        <translation>Avaa berrycoin: URI tai maksupyyntö</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Dogecoin Core help message to get a list with possible Dogecoin command-line options</source>
-        <translation>Näytä Dogecoin Core ohjeet saadaksesi listan mahdollisista Dogecoinin komentorivivalinnoista</translation>
+        <source>Show the BerryCoin Core help message to get a list with possible BerryCoin command-line options</source>
+        <translation>Näytä BerryCoin Core ohjeet saadaksesi listan mahdollisista BerryCoinin komentorivivalinnoista</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Dogecoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Dogecoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to BerryCoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys BerryCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä BerryCoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -748,8 +748,8 @@
         <translation>Osoite "%1" on jo osoitekirjassa.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dogecoin address.</source>
-        <translation>Antamasi osoite "%1" ei ole validi Dogecoin-osoite.</translation>
+        <source>The entered address "%1" is not a valid BerryCoin address.</source>
+        <translation>Antamasi osoite "%1" ei ole validi BerryCoin-osoite.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -786,8 +786,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin-ydin</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin-ydin</translation>
     </message>
     <message>
         <source>version</source>
@@ -798,8 +798,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Dogecoin Core</source>
-        <translation>Tietoja Dogecoin Core</translation>
+        <source>About BerryCoin Core</source>
+        <translation>Tietoja BerryCoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -821,16 +821,16 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Dogecoin Core.</source>
-        <translation>Tervetuloa Dogecoin Core</translation>
+        <source>Welcome to BerryCoin Core.</source>
+        <translation>Tervetuloa BerryCoin Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Dogecoin Core will store its data.</source>
-        <translation>Tämän on ensimmäinen kerta kun Dogecoin Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
+        <source>As this is the first time the program is launched, you can choose where BerryCoin Core will store its data.</source>
+        <translation>Tämän on ensimmäinen kerta kun BerryCoin Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>Dogecoin Core will download and store a copy of the Dogecoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Dogecoin Core lataa ja tallentaa kopion Dogecoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <source>BerryCoin Core will download and store a copy of the BerryCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BerryCoin Core lataa ja tallentaa kopion BerryCoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -841,8 +841,8 @@
         <translation>Määritä oma kansio:</translation>
     </message>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin-ydin</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin-ydin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -967,16 +967,16 @@
         <translation>&amp;Käytä varmistamattomia vaihtorahoja</translation>
     </message>
     <message>
-        <source>Automatically open the Dogecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Dogecoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the BerryCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa BerryCoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Portin uudelleenohjaus &amp;UPnP:llä</translation>
     </message>
     <message>
-        <source>Connect to the Dogecoin network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Dogecoin-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
+        <source>Connect to the BerryCoin network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä BerryCoin-verkkoon SOCKS5-välityspalvelimen kautta.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1020,11 +1020,11 @@
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona dogecoin-määrät näytetään</translation>
+        <translation>Yksikkö jona berrycoin-määrät näytetään</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti dogecoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti berrycoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1070,8 +1070,8 @@
         <translation>Lomake</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dogecoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu Dogecoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BerryCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu BerryCoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1111,7 +1111,7 @@
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Dogecoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien BerryCoinien määrä</translation>
     </message>
     <message>
         <source>Your current balance in watch-only addresses</source>
@@ -1169,16 +1169,16 @@
         <translation>Maksupyyntövirhe</translation>
     </message>
     <message>
-        <source>Cannot start dogecoin: click-to-pay handler</source>
-        <translation>Ei voida käynnistää dogecoin: klikkaa-maksu käsittelijää</translation>
+        <source>Cannot start berrycoin: click-to-pay handler</source>
+        <translation>Ei voida käynnistää berrycoin: klikkaa-maksu käsittelijää</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>Maksupyynnön haku URL on virheellinen: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dogecoin address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta Dogecoin-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BerryCoin address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta BerryCoin-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1231,8 +1231,8 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Enter a Dogecoin address (e.g. %1)</source>
-        <translation>Syötä Dogecoin-osoite (esim. %1)</translation>
+        <source>Enter a BerryCoin address (e.g. %1)</source>
+        <translation>Syötä BerryCoin-osoite (esim. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1524,8 +1524,8 @@
         <translation>&amp;Uudelleenkäytä vastaanotto-osoitetta (ei suositella)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dogecoin network.</source>
-        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä Dogecoin-verkkoon.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BerryCoin network.</source>
+        <translation>Valinnainen viesti liitetään maksupyyntöön ja näytetään avattaessa. Viestiä ei lähetetä BerryCoin-verkkoon.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1674,7 +1674,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Dogecoineja</translation>
+        <translation>Lähetä BerryCoineja</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1814,7 +1814,7 @@
     </message>
     <message>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Dogecoinien lähettäminen</translation>
+        <translation>Hyväksy BerryCoinien lähettäminen</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -1858,7 +1858,7 @@
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 Dogecoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 BerryCoinia.</translation>
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
@@ -1881,8 +1881,8 @@
         <translation>Maksa vain vähimmäiskulu %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Dogecoin address</source>
-        <translation>Varoitus: Virheellinen Dogecoin osoite</translation>
+        <source>Warning: Invalid BerryCoin address</source>
+        <translation>Varoitus: Virheellinen BerryCoin osoite</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1932,8 +1932,8 @@
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Dogecoin address to send the payment to</source>
-        <translation>Dogecoin-osoite johon maksu lähetetään</translation>
+        <source>The BerryCoin address to send the payment to</source>
+        <translation>BerryCoin-osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1960,8 +1960,8 @@
         <translation>Aseta nimi tälle osoitteelle lisätäksesi sen käytettyjen osoitteiden listalle.</translation>
     </message>
     <message>
-        <source>A message that was attached to the dogecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dogecoin network.</source>
-        <translation>Viesti joka liitettiin dogecoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä Dogecoin-verkkoon.</translation>
+        <source>A message that was attached to the berrycoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BerryCoin network.</source>
+        <translation>Viesti joka liitettiin berrycoin: URI:iin tallennetaan rahansiirtoon viitteeksi. Tätä viestiä ei lähetetä BerryCoin-verkkoon.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1975,8 +1975,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Dogecoin Core is shutting down...</source>
-        <translation>Dogecoin core sulkeutuu...</translation>
+        <source>BerryCoin Core is shutting down...</source>
+        <translation>BerryCoin core sulkeutuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1994,8 +1994,8 @@
         <translation>&amp;Allekirjoita viesti</translation>
     </message>
     <message>
-        <source>The Dogecoin address to sign the message with</source>
-        <translation>Dogecoin-osoite jolla viesti allekirjoitetaan</translation>
+        <source>The BerryCoin address to sign the message with</source>
+        <translation>BerryCoin-osoite jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2026,8 +2026,8 @@
         <translation>Kopioi tämänhetkinen allekirjoitus leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dogecoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Dogecoin-osoitteen</translation>
+        <source>Sign the message to prove you own this BerryCoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän BerryCoin-osoitteen</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2046,12 +2046,12 @@
         <translation>&amp;Varmista viesti</translation>
     </message>
     <message>
-        <source>The Dogecoin address the message was signed with</source>
-        <translation>Dogecoin-osoite jolla viesti on allekirjoitettu</translation>
+        <source>The BerryCoin address the message was signed with</source>
+        <translation>BerryCoin-osoite jolla viesti on allekirjoitettu</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dogecoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä Dogecoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified BerryCoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä BerryCoin-osoitteella</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2117,12 +2117,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Dogecoin Core</source>
-        <translation>Dogecoin-ydin</translation>
+        <source>BerryCoin Core</source>
+        <translation>BerryCoin-ydin</translation>
     </message>
     <message>
-        <source>The Dogecoin Core developers</source>
-        <translation>Dogecoin Core kehittäjät</translation>
+        <source>The BerryCoin Core developers</source>
+        <translation>BerryCoin Core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2558,7 +2558,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Lähetä Dogecoineja</translation>
+        <translation>Lähetä BerryCoineja</translation>
     </message>
 </context>
 <context>
@@ -2647,8 +2647,8 @@
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla riskillä - Ei saa käytää louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Dogecoin Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Dogecoin Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. BerryCoin Core is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. BerryCoin Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -2795,8 +2795,8 @@
         <translation>Tuodaan lohkoja ulkoisesta blk000??.dat tiedostosta</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Dogecoin Core is probably already running.</source>
-        <translation>Ei voida lukita data-hakemistoa %s. Dogecoin Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. BerryCoin Core is probably already running.</source>
+        <translation>Ei voida lukita data-hakemistoa %s. BerryCoin Core on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -2823,12 +2823,12 @@
         <translation>Copyright (C) 2009-%i  Bitcoin kehittäjät</translation>
     </message>
     <message>
-        <source>Copyright (C) 2013-%i The Dogecoin Core Developers</source>
-        <translation>Copyright (C) 2013-%i  Dogecoin kehittäjät</translation>
+        <source>Copyright (C) 2013-%i The BerryCoin Core Developers</source>
+        <translation>Copyright (C) 2013-%i  BerryCoin kehittäjät</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Dogecoin Core</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Dogecoinista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BerryCoin Core</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version BerryCoinista</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2911,8 +2911,8 @@
         <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Dogecoin Core to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Dogecoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart BerryCoin Core to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä BerryCoin uudelleen</translation>
     </message>
     <message>
         <source>Warning</source>
