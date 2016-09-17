@@ -10,7 +10,7 @@ To build for another arch/OS:
 
 For example:
 
-    make HOST=x86_64-w64-mingw32 -j4
+    make HOST=x86_64-w64-mingw32 -j6
 
 A prefix will be generated that's suitable for plugging into Bitcoin's
 configure. In the above example, a dir named i686-w64-mingw32 will be
