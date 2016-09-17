@@ -6,7 +6,7 @@
 #include "checkpoints.h"
 #include "consensus/validation.h"
 #include "core_io.h"
-#include "dogecoin.h"
+#include "berrycoin.h"
 #include "main.h"
 #include "primitives/transaction.h"
 #include "rpcserver.h"

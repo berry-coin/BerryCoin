@@ -1,10 +1,10 @@
 Sample configuration files for:
 
-SystemD: dogecoind.service
-Upstart: dogecoind.conf
-OpenRC:  dogecoind.openrc
-         dogecoind.openrcconf
-CentOS:  dogecoind.init
+SystemD: berrycoind.service
+Upstart: berrycoind.conf
+OpenRC:  berrycoind.openrc
+         berrycoind.openrcconf
+CentOS:  berrycoind.init
 
 have been made available to assist packagers in creating node packages here.
 

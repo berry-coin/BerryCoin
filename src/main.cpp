@@ -15,7 +15,7 @@
 #include "checkpoints.h"
 #include "checkqueue.h"
 #include "consensus/validation.h"
-#include "dogecoin.h"
+#include "berrycoin.h"
 #include "init.h"
 #include "merkleblock.h"
 #include "net.h"
@@ -1186,7 +1186,7 @@ static bool ReadBlockOrHeader(T& block, const CDiskBlockPos& pos)
     }
 
     // Check the header
-    // Dogecoin: We don't necessarily have block height, so we depend on using the base parameters
+    // BerryCoin: We don't necessarily have block height, so we depend on using the base parameters
     if (!CheckAuxPowProofOfWork(block, Params().GetConsensus(0)))
         return error("ReadBlockFromDisk: Errors in block header at %s", pos.ToString());
 
@@ -1449,7 +1449,7 @@ bool CheckInputs(const CTransaction& tx, CValidationState &state, const CCoinsVi
 
             // If prev is coinbase, check that it's matured
             if (coins->IsCoinBase()) {
-                // Dogecoin: Switch maturity at depth 145,000
+                // BerryCoin: Switch maturity at depth 145,000
                 int nCoinbaseMaturity = Params().GetConsensus(coins->nHeight).nCoinbaseMaturity;
                 if (nSpendHeight - coins->nHeight < nCoinbaseMaturity)
                     return state.Invalid(
@@ -1843,7 +1843,7 @@ bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pin
     //                      !((pindex->nHeight==91842 && pindex->GetBlockHash() == uint256S("0x00000000000a4d0a398161ffc163c503763b1f4360639393e0e4c8e300e0caec")) ||
     //                       (pindex->nHeight==91880 && pindex->GetBlockHash() == uint256S("0x00000000000743f190a18c5577a3c2d2a1f610ae9601ac046a38084ccb7cd721")));
     //if (fEnforceBIP30) {
-    // Dogecoin: BIP30 has been active since inception
+    // BerryCoin: BIP30 has been active since inception
         BOOST_FOREACH(const CTransaction& tx, block.vtx) {
             const CCoins* coins = view.AccessCoins(tx.GetHash());
             if (coins && !coins->IsPruned())
@@ -1852,7 +1852,7 @@ bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pin
         }
     //}
 
-    // Dogecoin: BIP16 has been active since inception
+    // BerryCoin: BIP16 has been active since inception
     unsigned int flags = SCRIPT_VERIFY_P2SH;
 
     // Start enforcing the DERSIG (BIP66) rules, for block.nVersion=3 blocks, when 75% of the network has upgraded:
@@ -1892,7 +1892,7 @@ bool ConnectBlock(const CBlock& block, CValidationState& state, CBlockIndex* pin
             // Add in sigops done by pay-to-script-hash inputs;
             // this is to prevent a "rogue miner" from creating
             // an incredibly-expensive-to-validate block.
-            // Dogecoin: BIP16 has been enabled since inception
+            // BerryCoin: BIP16 has been enabled since inception
             nSigOps += GetP2SHSigOpCount(tx, view);
             if (nSigOps > MAX_BLOCK_SIGOPS)
                 return state.DoS(100, error("ConnectBlock(): too many sigops"),
@@ -2531,7 +2531,7 @@ CBlockIndex* AddToBlockIndex(const CBlockHeader& block)
         pindexNew->BuildSkip();
     }
     pindexNew->nChainWork = (pindexNew->pprev ? pindexNew->pprev->nChainWork : 0) + GetBlockProof(*pindexNew);
-    // Dogecoin: Add AuxPoW
+    // BerryCoin: Add AuxPoW
     if (block.nVersion.IsAuxpow()) {
         pindexNew->pauxpow = block.auxpow;
         assert(NULL != pindexNew->pauxpow.get());
@@ -2802,7 +2802,7 @@ bool ContextualCheckBlockHeader(const CBlockHeader& block, CValidationState& sta
     }
 
     // Reject block.nVersion=1 blocks when 95% (75% on testnet) of the network has upgraded:
-    // Dogecoin: Version 2 enforcement was never used, reject from v3 softfork
+    // BerryCoin: Version 2 enforcement was never used, reject from v3 softfork
     //if (block.nVersion < 2 && IsSuperMajority(2, pindexPrev, consensusParams.nMajorityRejectBlockOutdated, consensusParams))
     //    return state.Invalid(error("%s: rejected nVersion=1 block", __func__),
     //                         REJECT_OBSOLETE, "bad-version");
@@ -2830,7 +2830,7 @@ bool ContextualCheckBlock(const CBlock& block, CValidationState& state, CBlockIn
 
     // Enforce block.nVersion=2 rule that the coinbase starts with serialized block height
     // if 750 of the last 1,000 blocks are version 2 or greater (51/100 if testnet):
-    // Dogecoin: Block v2 was never enforced, so we trigger this against v3
+    // BerryCoin: Block v2 was never enforced, so we trigger this against v3
     if (block.nVersion >= 2 && IsSuperMajority(3, pindexPrev, consensusParams.nMajorityEnforceBlockUpgrade, consensusParams))
     {
         CScript expect = CScript() << nHeight;

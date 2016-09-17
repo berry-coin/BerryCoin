@@ -877,7 +877,7 @@ bool AppInit2(boost::thread_group& threadGroup, CScheduler& scheduler)
         }
     }
 
-    // Dogecoin: Disable txconfirmtarget
+    // BerryCoin: Disable txconfirmtarget
     // nTxConfirmTarget = GetArg("-txconfirmtarget", DEFAULT_TX_CONFIRM_TARGET);
     nTxConfirmTarget = DEFAULT_TX_CONFIRM_TARGET;
     bSpendZeroConfChange = GetBoolArg("-spendzeroconfchange", true);

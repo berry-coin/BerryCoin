@@ -8,7 +8,7 @@
 
 #include "arith_uint256.h"
 #include "chain.h"
-#include "dogecoin.h"
+#include "berrycoin.h"
 #include "primitives/block.h"
 #include "uint256.h"
 #include "util.h"
@@ -21,7 +21,7 @@ unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHead
     if (pindexLast == NULL)
         return nProofOfWorkLimit;
 
-    // Dogecoin: Special rules for minimum difficulty blocks with Digishield
+    // BerryCoin: Special rules for minimum difficulty blocks with Digishield
     if (AllowDigishieldMinDifficultyForBlock(pindexLast, pblock, params))
     {
         // Special difficulty rule for testnet:

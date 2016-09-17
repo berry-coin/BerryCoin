@@ -1,0 +1,3 @@
+debian/manpages/berrycoind.1
+debian/manpages/berrycoin.conf.5
+debian/manpages/berrycoin-cli.1

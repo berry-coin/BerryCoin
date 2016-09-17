@@ -1,0 +1,27 @@
+# /etc/conf.d/berrycoind: config file for /etc/init.d/berrycoind
+
+# Config file location
+#BERRYCOIND_CONFIGFILE="/etc/berrycoin/berrycoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BERRYCOIND_USER)
+#BERRYCOIND_PIDDIR="/var/run/berrycoind"
+
+# What filename to give the pidfile
+#BERRYCOIND_PIDFILE="${BERRYCOIND_PIDDIR}/berrycoind.pid"
+
+# Where to write berrycoind data (be mindful that the blockchain is large)
+#BERRYCOIND_DATADIR="/var/lib/berrycoind"
+
+# User and group to own berrycoind process
+#BERRYCOIND_USER="berrycoin"
+#BERRYCOIND_GROUP="berrycoin"
+
+# Path to berrycoind executable
+#BERRYCOIND_BIN="/usr/bin/berrycoind"
+
+# Nice value to run berrycoind under
+#BERRYCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BERRYCOIND_OPTS="-disablewallet"
+

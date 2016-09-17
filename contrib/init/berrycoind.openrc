@@ -1,0 +1,88 @@
+#!/sbin/runscript
+
+# backward compatibility for existing gentoo layout 
+#
+if [ -d "/var/lib/berrycoin/.berrycoin" ]; then
+	BERRYCOIND_DEFAULT_DATADIR="/var/lib/berrycoin/.berrycoin"
+else
+	BERRYCOIND_DEFAULT_DATADIR="/var/lib/berrycoind"
+fi
+
+BERRYCOIND_CONFIGFILE=${BERRYCOIND_CONFIGFILE:-/etc/berrycoin/berrycoin.conf}
+BERRYCOIND_PIDDIR=${BERRYCOIND_PIDDIR:-/var/run/berrycoind}
+BERRYCOIND_PIDFILE=${BERRYCOIND_PIDFILE:-${BERRYCOIND_PIDDIR}/berrycoind.pid}
+BERRYCOIND_DATADIR=${BERRYCOIND_DATADIR:-${BERRYCOIND_DEFAULT_DATADIR}}
+BERRYCOIND_USER=${BERRYCOIND_USER:-${BERRYCOIN_USER:-berrycoin}}
+BERRYCOIND_GROUP=${BERRYCOIND_GROUP:-berrycoin}
+BERRYCOIND_BIN=${BERRYCOIND_BIN:-/usr/bin/berrycoind}
+BERRYCOIND_NICE=${BERRYCOIND_NICE:-${NICELEVEL:-0}}
+BERRYCOIND_OPTS="${BERRYCOIND_OPTS:-${BERRYCOIN_OPTS}}"
+
+name="BerryCoin Core Daemon"
+description="BerryCoin cryptocurrency P2P network daemon"
+
+command="/usr/bin/berrycoind"
+command_args="-pid=\"${BERRYCOIND_PIDFILE}\" \
+		-conf=\"${BERRYCOIND_CONFIGFILE}\" \
+		-datadir=\"${BERRYCOIND_DATADIR}\" \
+		-daemon \
+		${BERRYCOIND_OPTS}"
+
+required_files="${BERRYCOIND_CONFIGFILE}"
+start_stop_daemon_args="-u ${BERRYCOIND_USER} \
+			-N ${BERRYCOIND_NICE} -w 2000"
+pidfile="${BERRYCOIND_PIDFILE}"
+retry=60
+
+depend() {
+	need localmount net
+}
+
+# verify
+# 1) that the datadir exists and is writable (or create it)
+# 2) that a directory for the pid exists and is writable
+# 3) ownership and permissions on the config file
+start_pre() {
+	checkpath \
+	-d \
+	--mode 0750 \
+	--owner "${BERRYCOIND_USER}:${BERRYCOIND_GROUP}" \
+	"${BERRYCOIND_DATADIR}"
+
+	checkpath \
+	-d \
+	--mode 0755 \
+	--owner "${BERRYCOIND_USER}:${BERRYCOIND_GROUP}" \
+	"${BERRYCOIND_PIDDIR}"
+
+	checkpath -f \
+	-o ${BERRYCOIND_USER}:${BERRYCOIND_GROUP} \
+	-m 0660 \
+	${BERRYCOIND_CONFIGFILE}
+
+	checkconfig || return 1
+}
+
+checkconfig()
+{
+	if ! grep -qs '^rpcpassword=' "${BERRYCOIND_CONFIGFILE}" ; then
+		eerror ""
+		eerror "ERROR: You must set a secure rpcpassword to run berrycoind."
+		eerror "The setting must appear in ${BERRYCOIND_CONFIGFILE}"
+		eerror ""
+		eerror "This password is security critical to securing wallets "
+		eerror "and must not be the same as the rpcuser setting."
+		eerror "You can generate a suitable random password using the following"
+		eerror "command from the shell:"
+		eerror ""
+		eerror "bash -c 'tr -dc a-zA-Z0-9 < /dev/urandom | head -c32 && echo'"
+		eerror ""
+		eerror "It is also recommended that you also set alertnotify so you are "
+		eerror "notified of problems:"
+		eerror ""
+		eerror "ie: alertnotify=echo %%s | mail -s \"BerryCoin Alert\"" \
+			"admin@foo.com"
+		eerror ""
+		return 1
+	fi
+}

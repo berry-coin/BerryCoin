@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BerryCoin
+Comment=BerryCoin P2P Cryptocurrency
+Comment[fr]=BerryCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BerryCoin, eşten eşe kriptografik sanal para birimi
+Exec=berrycoin-qt %u
+Terminal=false
+Type=Application
+Icon=berrycoin128
+MimeType=x-scheme-handler/berrycoin;
+Categories=Office;Finance;

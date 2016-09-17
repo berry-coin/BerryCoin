@@ -1,0 +1,22 @@
+[Unit]
+Description=BerryCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=berrycoin
+Group=berrycoin
+
+Type=forking
+PIDFile=/var/lib/berrycoind/berrycoind.pid
+ExecStart=/usr/bin/berrycoind -daemon -pid=/var/lib/berrycoind/berrycoind.pid \
+-conf=/etc/berrycoin/berrycoin.conf -datadir=/var/lib/berrycoind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

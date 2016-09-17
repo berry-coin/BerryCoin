@@ -1,11 +1,11 @@
 --- 
-name: dogecoin
+name: berrycoin
 urls:
-- http://dogecoin.com/dogecoin-latest-win32-gitian.zip
+- http://github.com/berry-coin/berrycoin/berrycoin-latest-win32-gitian.zip
 rss:
 - url: 
   xpath: //item/link/text()
-  pattern: dogecoin-\d+.\d+.\d+-win32-gitian.zip
+  pattern: berrycoin-\d+.\d+.\d+-win32-gitian.zip
 signers:
   90DC2AC256201AD9377E15049142E5F7E533CE3B:
     weight: 40

@@ -1,7 +1,7 @@
 --- 
-name: dogecoin
+name: berrycoin
 urls:
-- http://dogecoin.com/dogecoin-latest-linux-gitian.zip
+- http://github.com/berry-coin/berrycoin/berrycoin-latest-linux-gitian.zip
 rss:
 - url: 
   xpath: //item/link/text()
