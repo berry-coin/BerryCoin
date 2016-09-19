@@ -330,7 +330,7 @@ CBlockTemplate* CreateNewBlock(const CScript& scriptPubKeyIn)
 
         // Compute final coinbase transaction.
         const Consensus::Params &consensus = chainparams.GetConsensus(nHeight);
-        txNew.vout[0].nValue = nFees + GetDogecoinBlockSubsidy(nHeight, consensus, pindexPrev->GetBlockHash());
+        txNew.vout[0].nValue = nFees + GetBerryCoinBlockSubsidy(nHeight, consensus, pindexPrev->GetBlockHash());
         txNew.vin[0].scriptSig = CScript() << nHeight << OP_0;
         pblock->vtx[0] = txNew;
         pblocktemplate->vTxFees[0] = -nFees;

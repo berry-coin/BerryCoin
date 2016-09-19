@@ -26,16 +26,11 @@ bool AllowDigishieldMinDifficultyForBlock(const CBlockIndex* pindexLast, const C
     if (!params.fPowAllowMinDifficultyBlocks)
         return false;
 
-    // check if the chain allows minimum difficulty blocks on recalc blocks
-    if (pindexLast->nHeight < 157500)
-    // if (!params.fPowAllowDigishieldMinDifficultyBlocks)
-        return false;
-
     // Allow for a minimum block time if the elapsed time > 2*nTargetSpacing
     return (pblock->GetBlockTime() > pindexLast->GetBlockTime() + params.nPowTargetSpacing*2);
 }
 
-unsigned int CalculateDogecoinNextWorkRequired(const CBlockIndex* pindexLast, int64_t nFirstBlockTime, const Consensus::Params& params)
+unsigned int CalculateBerryCoinNextWorkRequired(const CBlockIndex* pindexLast, int64_t nFirstBlockTime, const Consensus::Params& params)
 {
     int nHeight = pindexLast->nHeight + 1;
     const int64_t retargetTimespan = params.nPowTargetTimespan;
@@ -122,32 +117,14 @@ bool CheckAuxPowProofOfWork(const CBlockHeader& block, const Consensus::Params& 
     return true;
 }
 
-CAmount GetDogecoinBlockSubsidy(int nHeight, const Consensus::Params& consensusParams, uint256 prevHash)
+CAmount GetBerryCoinBlockSubsidy(int nHeight, const Consensus::Params& consensusParams, uint256 prevHash)
 {
     int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
-
-    if (!consensusParams.fSimplifiedRewards)
-    {
-        // Old-style rewards derived from the previous block hash
-        const std::string cseed_str = prevHash.ToString().substr(7, 7);
-        const char* cseed = cseed_str.c_str();
-        char* endp = NULL;
-        long seed = strtol(cseed, &endp, 16);
-        CAmount maxReward = (1000000 >> halvings) - 1;
-        int rand = generateMTRandom(seed, maxReward);
-
-        return (1 + rand) * COIN;
-    } else if (nHeight < (6 * consensusParams.nSubsidyHalvingInterval)) {
-        // New-style constant rewards for each halving interval
-        return (500000 * COIN) >> halvings;
-    } else {
-        // Constant inflation
-        return 10000 * COIN;
-    }
+    return (18 * COIN) >> halvings;
 }
 
 
-int64_t GetDogecoinDustFee(const std::vector<CTxOut> &vout, CFeeRate &baseFeeRate) {
+int64_t GetBerryCoinDustFee(const std::vector<CTxOut> &vout, CFeeRate &baseFeeRate) {
     int64_t nFee = 0;
 
     // To limit dust spam, add base fee for each dust output

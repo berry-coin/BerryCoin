@@ -2032,7 +2032,7 @@ CAmount CWallet::GetMinimumFee(const CMutableTransaction& tx, unsigned int nTxBy
     if (nFeeNeeded == 0) {
         nFeeNeeded = minTxFee.GetFee(nTxBytes);
         // BerryCoin: Add an increased fee for each dust output
-        nFeeNeeded += GetDogecoinDustFee(tx.vout, minTxFee);
+        nFeeNeeded += GetBerryCoinDustFee(tx.vout, minTxFee);
     }
     // prevent user from paying a non-sense fee (like 1 satoshi): 0 < fee < minRelayFee
     if (nFeeNeeded < ::minRelayTxFee.GetFee(nTxBytes))
