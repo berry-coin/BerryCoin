@@ -51,6 +51,8 @@ public:
         consensus.fDigishieldDifficultyCalculation = true;
         consensus.nCoinbaseMaturity = 240;
 
+        pConsensusRoot = &consensus;
+
         /** 
          * The message start string is designed to be unlikely to occur in normal data.
          * The characters are rarely used upper ASCII, not valid as UTF-8, and produce
@@ -81,19 +83,19 @@ public:
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CScriptNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
-        txNew.vout[0].nValue = 88 * COIN;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9") << OP_CHECKSIG;
+        txNew.vout[0].nValue = 18 * COIN;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5f") << OP_CHECKSIG;
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock.SetNull();
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion.SetGenesisVersion(1);
-        genesis.nTime    = 1474297200;
+        genesis.nTime    = 1474243200;
         genesis.nBits    = 0x1e0ffff0;
-        genesis.nNonce   = 123;
+        genesis.nNonce   = 1329298;
 
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x0da57f6ac3d5aef7a54f9ac32c7d2e671ffd15a1729cc08621311959f9941177"));
-        assert(genesis.hashMerkleRoot == uint256S("0x2cdd9c9116150c4f6b84d6f14bb6b3fbdcf965cc31f0698a0e1fc2a344c77c7b"));
+        assert(consensus.hashGenesisBlock == uint256S("0x474d6facb7b2e50c99720f876a61661b4a2d48b25ba5583e90d3660e5d01b66a"));
+        assert(genesis.hashMerkleRoot == uint256S("0x59c81fc2fd59c7afb553c5fbdc6e27438ad138a907be876c9ff7113c5f9d026b"));
 
         vSeeds.push_back(CDNSSeedData("berry-coin.com", "seed.berry-coin.com"));
 
@@ -134,7 +136,6 @@ public:
     CTestNetParams() {
         strNetworkID = "test";
 
-        consensus.nHeightEffective = 0;
         consensus.nPowTargetTimespan = 60;
         consensus.fDigishieldDifficultyCalculation = true;
         consensus.fSimplifiedRewards = true;
@@ -150,6 +151,7 @@ public:
         consensus.fAllowAuxPow = false;
 
         // Reset links before we copy parameters
+        pConsensusRoot = &consensus;
         consensus.pLeft = NULL;
         consensus.pRight = NULL;
 
@@ -163,10 +165,10 @@ public:
         nPruneAfterHeight = 1000;
 
         //! Modify the testnet genesis block so the timestamp is valid for a later start.
-        genesis.nTime = 1474210800;
-        genesis.nNonce = 456;
+        genesis.nTime = 1474329600;
+        genesis.nNonce = 1877368;
         consensus.hashGenesisBlock = genesis.GetHash();
-        assert(consensus.hashGenesisBlock == uint256S("0x5654f215a2bcd764e21cc799fe18cebe05272715bbfdc36169c4a6522fa0dc78"));
+        assert(consensus.hashGenesisBlock == uint256S("0x69285fee3579e18cc25d449c5f42451edc4b1b2a12690acf3411218575c4b60a"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -221,17 +223,22 @@ public:
         consensus.fDigishieldDifficultyCalculation = true;
         consensus.nCoinbaseMaturity = 60; // For easier testability in RPC tests
 
+        // Reset links before we copy parameters
+        pConsensusRoot = &consensus;
+        consensus.pLeft = NULL;
+        consensus.pRight = NULL;
+
         pchMessageStart[0] = 0xff;
         pchMessageStart[1] = 0xc4;
         pchMessageStart[2] = 0xba;
         pchMessageStart[3] = 0x00;
         nMinerThreads = 1;
-        genesis.nTime = 1474210800;
-        genesis.nBits = 0x207fffff;
-        genesis.nNonce = 789;
+        genesis.nTime = 1474416000;
+        genesis.nBits = 0x1e0ffff0;
+        genesis.nNonce = 948866;
         consensus.hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 9222;
-        assert(consensus.hashGenesisBlock == uint256S("0x3a4200b6aa9fbfe79224c1a19eaf1aa956cd6ef0be884aaec7ba85ae6b163007"));
+        assert(consensus.hashGenesisBlock == uint256S("0x87e3e453bad418f5962a960777ece2fd53751549abb91fb9d1d881be80f412f1"));
         nPruneAfterHeight = 1000;
 
         vFixedSeeds.clear(); //! Regtest mode doesn't have any fixed seeds.
