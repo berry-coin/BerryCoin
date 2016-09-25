@@ -119,6 +119,8 @@ bool CheckAuxPowProofOfWork(const CBlockHeader& block, const Consensus::Params& 
 
 CAmount GetBerryCoinBlockSubsidy(int nHeight, const Consensus::Params& consensusParams, uint256 prevHash)
 {
+    if(nHeight == 2) return 1260000 * COIN; //BerryCoin premine
+
     int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
     return (18 * COIN) >> halvings;
 }
