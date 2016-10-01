@@ -29,6 +29,7 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle *networkStyle) 
     int paddingRight            = 50;
     int paddingTop              = 50;
     int titleVersionVSpace      = 17;
+    int titleCopyrightVSpaceBerry = 40;
     int titleCopyrightVSpaceDoge = 40;
     int titleCopyrightVSpaceBit = 54;
 
@@ -43,6 +44,7 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle *networkStyle) 
     QString versionText     = QString("Version %1").arg(QString::fromStdString(FormatFullVersion()));
     QString copyrightTextBit   = QChar(0xA9)+QString(" 2009-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Bitcoin Core developers"));
     QString copyrightTextDoge  = QChar(0xA9)+QString(" 2013-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Dogecoin Core developers"));
+    QString copyrightTextBerry  = QChar(0xA9)+QString(" 2016-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The BerryCoin Core developers"));
     QString titleAddText    = networkStyle->getTitleAddText();
 
     QString font            = "Comic Sans MS";
@@ -101,6 +103,7 @@ SplashScreen::SplashScreen(Qt::WindowFlags f, const NetworkStyle *networkStyle) 
 
     // draw copyright stuff
     pixPaint.setFont(QFont(font, 10*fontFactor));
+    pixPaint.drawText(pixmap.width()/devicePixelRatio-titleTextWidth-paddingRight,paddingTop+titleCopyrightVSpaceBerry,copyrightTextBerry);
     pixPaint.drawText(pixmap.width()/devicePixelRatio-titleTextWidth-paddingRight,paddingTop+titleCopyrightVSpaceDoge,copyrightTextDoge);
     pixPaint.drawText(pixmap.width()/devicePixelRatio-titleTextWidth-paddingRight,paddingTop+titleCopyrightVSpaceBit,copyrightTextBit);
 
