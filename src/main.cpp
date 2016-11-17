@@ -2809,9 +2809,11 @@ bool ContextualCheckBlockHeader(const CBlockHeader& block, CValidationState& sta
     //                         REJECT_OBSOLETE, "bad-version");
 
     // Reject block.nVersion=2 blocks when 95% (75% on testnet) of the network has upgraded:
+    /*
     if (block.nVersion < 3 && IsSuperMajority(3, pindexPrev, consensusParams.nMajorityRejectBlockOutdated, consensusParams))
         return state.Invalid(error("%s : rejected nVersion=2 block", __func__),
                              REJECT_OBSOLETE, "bad-version");
+    */
 
     return true;
 }
@@ -2832,6 +2834,7 @@ bool ContextualCheckBlock(const CBlock& block, CValidationState& state, CBlockIn
     // Enforce block.nVersion=2 rule that the coinbase starts with serialized block height
     // if 750 of the last 1,000 blocks are version 2 or greater (51/100 if testnet):
     // BerryCoin: Block v2 was never enforced, so we trigger this against v3
+    /*
     if (block.nVersion >= 2 && IsSuperMajority(3, pindexPrev, consensusParams.nMajorityEnforceBlockUpgrade, consensusParams))
     {
         CScript expect = CScript() << nHeight;
@@ -2840,6 +2843,7 @@ bool ContextualCheckBlock(const CBlock& block, CValidationState& state, CBlockIn
             return state.DoS(100, error("%s: block height mismatch in coinbase", __func__), REJECT_INVALID, "bad-cb-height");
         }
     }
+    */
 
     return true;
 }
